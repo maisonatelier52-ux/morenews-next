@@ -1,0 +1,1530 @@
+[
+  {
+    "slug": "about",
+    "label": "About",
+    "group": "about",
+    "title": "About More News | Independent Global Journalism Platform",
+    "description": "Learn more about More News, an independent digital journalism platform delivering trusted reporting, analysis and in-depth coverage of global and UK affairs.",
+    "sections": [
+      {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "<strong>More News</strong> is an independent digital news platform committed to delivering accurate, thoughtful, and in-depth journalism on the issues shaping our world. We cover UK politics, global affairs, economics, climate, science, and social change with clarity and integrity."
+          },
+          {
+            "type": "paragraph",
+            "html": "Founded on the principles of transparency and public accountability, More News aims to cut through noise and misinformation by focusing on verified reporting, contextual analysis, and human-centered storytelling."
+          },
+          {
+            "type": "paragraph",
+            "html": "Our newsroom brings together journalists, analysts, and editors who believe journalism should inform, challenge power, and empower readers with facts—not outrage."
+          },
+          {
+            "type": "paragraph",
+            "html": "We are not driven by political parties or corporate interests. Our mission is simple: to publish journalism that helps readers understand what is happening, why it matters, and how it affects their lives."
+          },
+          {
+            "type": "paragraph",
+            "html": "More News is reader-focused, globally aware, and dedicated to upholding the highest standards of modern journalism."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "our-team",
+    "label": "Our Team",
+    "group": "about",
+    "title": "Our Team | More News – Independent UK Journalism",
+    "description": "Meet the journalists, editors, and analysts behind More News — an independent UK digital newsroom committed to fact-based, transparent reporting on UK and global affairs.",
+    "sections": [
+      {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "At More News, our journalists, editors, and analysts work together across the UK and beyond to deliver fact-based, independent journalism that holds power to account and keeps readers informed."
+          }
+        ]
+      },
+      {
+        "heading": "Our Mission",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "We are an independent newsroom committed to truth, transparency, and accountability. We cover UK politics, global affairs, economics, climate, science, and social change — giving voice to people through journalism that cuts through the noise rather than adding to it."
+          },
+          {
+            "type": "paragraph",
+            "html": "Leadership"
+          }
+        ]
+      },
+      {
+        "heading": "Emily Hargreaves",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Emily Hargreaves is a political journalist covering UK politics, policy, and government affairs. She focuses on clear, balanced reporting and in-depth analysis of developments shaping Westminster and public life."
+          },
+          {
+            "type": "paragraph",
+            "html": "<a href=\"/author/emily-hargreaves\" class=\"view-bio\">View full bio</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Daniel Rowcroft",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Daniel Rowcroft is a UK-based investigations correspondent covering politics, public policy, and corporate accountability. His reporting focuses on uncovering hidden networks, regulatory failures, and issues of public interest through in-depth research and source-driven analysis."
+          },
+          {
+            "type": "paragraph",
+            "html": "<a href=\"/author/daniel-rowcroft\" class=\"view-bio\">View full bio</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "Reporting Team"
+          }
+        ]
+      },
+      {
+        "heading": "James Thornton",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "James Thornton is a British news reporter who writes about politics, social issues, and current events. His goal is to cover and analyze events that have an impact on daily life in the UK in a way that is timely, accurate, and easy to understand."
+          },
+          {
+            "type": "paragraph",
+            "html": "<a href=\"/author/james-thornton\" class=\"view-bio\">View full bio</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Henry Whitaker",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Henry Whitaker is a business journalist covering market trends, corporate strategy and economic policy. His reporting focuses on providing clear insight into global finance and industrial developments."
+          },
+          {
+            "type": "paragraph",
+            "html": "<a href=\"/author/henry-whitaker\" class=\"view-bio\">View full bio</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Lydia Prescott",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Lydia Prescott is a health journalist covering medical research, public health policy and NHS developments, with a focus on how healthcare issues affect everyday life in the UK."
+          },
+          {
+            "type": "paragraph",
+            "html": "<a href=\"/author/lydia-prescott\" class=\"view-bio\">View full bio</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Sophie Caldwell",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Sophie Caldwell is a world news correspondent who writes about foreign affairs, geopolitics, and improvements in global security. She focuses on how world events affect the UK and Europe."
+          },
+          {
+            "type": "paragraph",
+            "html": "<a href=\"/author/sophie-caldwell\" class=\"view-bio\">View full bio</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Oliver Grant",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Oliver Grant is a technology journalist covering the latest developments in tech trends, innovation and digital policy, with a focus on how new technologies impact business and society."
+          },
+          {
+            "type": "paragraph",
+            "html": "<a href=\"/author/oliver-grant\" class=\"view-bio\">View full bio</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Callum Fraser",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Callum Fraser is a sports journalist who writes about football, big competitions, and grassroots sports. He focuses on the stories that affect sports in the UK."
+          },
+          {
+            "type": "paragraph",
+            "html": "<a href=\"/author/callum-fraser\" class=\"view-bio\">View full bio</a>"
+          }
+        ]
+      },
+      {
+        "heading": "More News Staff",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Behind every story is a wider team of dedicated professionals working across departments to keep our newsroom operating independently and to the highest editorial standards."
+          }
+        ]
+      },
+      {
+        "heading": "Editorial",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Our editors shape every story with a commitment to accuracy, fairness, and clarity — from first draft to final publication."
+          }
+        ]
+      },
+      {
+        "heading": "Fact-Checking",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Our fact-checkers verify claims, figures, and sources before stories are published, ensuring our reporting stands up to scrutiny."
+          }
+        ]
+      },
+      {
+        "heading": "Production",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "From design to digital publishing, our production team brings journalism to life across all platforms and devices."
+          }
+        ]
+      },
+      {
+        "heading": "Audience & Community",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "We engage directly with readers, welcome feedback, and work to build an informed community around the journalism we produce."
+          }
+        ]
+      },
+      {
+        "heading": "All Authors",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "<a href=\"/author/emily-hargreaves\">Emily Hargreaves</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "<a href=\"/author/daniel-rowcroft\">Daniel Rowcroft</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "<a href=\"/author/james-thornton\">James Thornton</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "<a href=\"/author/henry-whitaker\">Henry Whitaker</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "<a href=\"/author/lydia-prescott\">Lydia Prescott</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "<a href=\"/author/sophie-caldwell\">Sophie Caldwell</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "<a href=\"/author/oliver-grant\">Oliver Grant</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "<a href=\"/author/callum-fraser\">Callum Fraser</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "Last Updated: 21 May 2026"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "contact",
+    "label": "Contact",
+    "group": "about",
+    "title": "Contact Us | More News – Independent UK Journalism",
+    "description": "Get in touch with the More News editorial team. Send tips, corrections, press enquiries, or reader feedback to our independent UK newsroom.",
+    "sections": [
+      {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "More News is an independent UK newsroom. We welcome tips, corrections, and communication from readers, journalists, organisations, and individuals responding to our coverage. Please use the address that best fits your enquiry."
+          }
+        ]
+      },
+      {
+        "heading": "Editorial & General Enquiries",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Questions about our reporting, ideas for coverage, or matters relating to editorial decisions and published articles."
+          }
+        ]
+      },
+      {
+        "heading": "Confidential News Tips",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "If you have information you believe warrants investigation or public reporting, you can contact us securely. We handle all tips with care and discretion."
+          }
+        ]
+      },
+      {
+        "heading": "Corrections",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "If you believe we have made a factual error, please let us know promptly. Include the article link and the specific claim you believe is wrong so we can review it quickly."
+          }
+        ]
+      },
+      {
+        "heading": "Media & Press Enquiries",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "For journalists, researchers, or organisations seeking commentary, collaboration, or information about the newsroom."
+          }
+        ]
+      },
+      {
+        "heading": "Contact Addresses",
+        "blocks": [
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "<strong>Editorial:</strong> <a href=\"mailto:editorial@morenews.org\">editorial@morenews.org</a>",
+              "<strong>Tips:</strong> <a href=\"mailto:tips@morenews.org\">tips@morenews.org</a>",
+              "<strong>Corrections:</strong> <a href=\"mailto:corrections@morenews.org\">corrections@morenews.org</a>",
+              "<strong>Rights, permissions &amp; formal notices:</strong> <a href=\"mailto:editorial@morenews.org\">editorial@morenews.org</a>"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "html": "When contacting us about a published article, please include the article URL and the specific issue you are raising. This helps us route your request to the right person without delay."
+          }
+        ]
+      },
+      {
+        "heading": "Stay Connected",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "<a href=\"https://x.com/More_NewsMN\" title=\"X / Twitter\"><i class=\"fa-brands fa-x-twitter\"></i> X (Twitter)</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "<a href=\"https://www.instagram.com/more_news_7/\" title=\"Instagram\"><i class=\"fa-brands fa-instagram\"></i> Instagram</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "<a href=\"https://medium.com/@more_news\" title=\"Medium\"><i class=\"fa-brands fa-medium\"></i> Medium</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "<a href=\"https://substack.com/@morenewsmn\" title=\"Substack\">Substack</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "<a href=\"https://flipboard.com/@more_news\" title=\"Flipboard\"><i class=\"fa-brands fa-flipboard\"></i> Flipboard</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "More News is an independent digital publication operated by a distributed editorial team based in the United Kingdom. We do not represent any political party, government body, or commercial interest. Our journalism is accountable to readers."
+          },
+          {
+            "type": "paragraph",
+            "html": "Last Updated: 22 May 2026"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "privacy-policy",
+    "label": "Privacy Policy",
+    "group": "about",
+    "title": "Privacy Policy – How More News Protects Your Data",
+    "description": "Read the Privacy Policy of More News to understand how we collect, use, store and protect personal data across our independent UK news platform.",
+    "sections": [
+      {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "<strong>Last Updated: November 2026</strong>"
+          },
+          {
+            "type": "paragraph",
+            "html": "<strong>More News</strong> is an independent UK-based digital news publication. We value reader trust and are committed to transparency about how we collect, use, store, and protect personal information."
+          }
+        ]
+      },
+      {
+        "heading": "1. Scope of This Privacy Policy",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "This Privacy Policy applies to all users of More News, including readers who browse articles, subscribe to newsletters, submit forms, comment, or interact with advertising on our website."
+          },
+          {
+            "type": "paragraph",
+            "html": "This policy does not apply to third-party websites, social media platforms, or services that link to or integrate with our content."
+          }
+        ]
+      },
+      {
+        "heading": "2. Information We Collect",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "<strong>A. Information You Provide Directly</strong>"
+          },
+          {
+            "type": "paragraph",
+            "html": "You may voluntarily provide personal information such as your name, email address, newsletter preferences, comments, or messages submitted through contact forms."
+          },
+          {
+            "type": "paragraph",
+            "html": "<strong>B. Information Collected Automatically</strong>"
+          },
+          {
+            "type": "paragraph",
+            "html": "When you use our services, we automatically collect technical and usage data, including IP address, browser type, device information, operating system, pages viewed, time spent on pages, referral links, and interaction patterns."
+          },
+          {
+            "type": "paragraph",
+            "html": "<strong>C. Information from Third Parties</strong>"
+          },
+          {
+            "type": "paragraph",
+            "html": "We may receive aggregated or anonymised data from analytics providers, advertising partners, or social media platforms when you interact with our content."
+          }
+        ]
+      },
+      {
+        "heading": "3. How We Use Information",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "We use collected information to operate and improve our services, publish and distribute journalism, analyse traffic and engagement, respond to enquiries, personalise content, prevent fraud, and comply with legal obligations."
+          }
+        ]
+      },
+      {
+        "heading": "4. Cookies and Tracking Technologies",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "More News uses cookies, pixels, and similar technologies to remember user preferences, analyse performance, measure engagement, and deliver relevant advertising. You may manage cookie preferences through your browser settings."
+          }
+        ]
+      },
+      {
+        "heading": "5. Analytics and Advertising",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "We use analytics tools such as Google Analytics to understand how users engage with our site. Advertising partners may use anonymised data to deliver interest-based advertisements."
+          }
+        ]
+      },
+      {
+        "heading": "6. Sharing Information",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "We do not sell personal information. We may share limited data with service providers, analytics partners, advertisers, or legal authorities when required by law or to protect users and our organisation."
+          }
+        ]
+      },
+      {
+        "heading": "7. Children’s Privacy",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "More News does not knowingly collect personal data from children under the age of 13. Any such information discovered will be deleted promptly."
+          }
+        ]
+      },
+      {
+        "heading": "8. External Links",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Our site may contain links to external websites or third-party tools. We are not responsible for the privacy practices of those services."
+          }
+        ]
+      },
+      {
+        "heading": "9. Data Retention",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "We retain personal information only for as long as necessary to provide services, meet legal requirements, resolve disputes, and maintain security."
+          }
+        ]
+      },
+      {
+        "heading": "10. Data Security",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "We use appropriate technical and organisational safeguards to protect information. However, no digital system can be guaranteed to be completely secure."
+          }
+        ]
+      },
+      {
+        "heading": "11. International Users",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "More News operates primarily in the United Kingdom. Users accessing the site from outside the UK acknowledge that their data may be processed under UK data protection laws."
+          }
+        ]
+      },
+      {
+        "heading": "12. Changes to This Policy",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "This Privacy Policy may be updated periodically. Any changes will be reflected by the “Last Updated” date at the top of this page."
+          }
+        ]
+      },
+      {
+        "heading": "13. Contact Us",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "For privacy-related enquiries, please contact us at:<br> <strong>Email:</strong> privacy@morenews.org"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "terms-and-conditions",
+    "label": "Terms And Conditions",
+    "group": "about",
+    "title": "Terms & Conditions | More News – Independent UK Journalism",
+    "description": "The terms and conditions for using More News — covering content use, accuracy, external links, and reader responsibilities.",
+    "sections": [
+      {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "By accessing More News, you agree to the following terms. We aim to keep them straightforward and transparent so readers understand how our journalism may be used."
+          }
+        ]
+      },
+      {
+        "heading": "Using Our Content",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "All original content published by More News is protected by copyright. Readers may share links and quote brief excerpts with proper attribution. Republishing full articles without permission is not permitted."
+          },
+          {
+            "type": "paragraph",
+            "html": "For permissions or republication enquiries, please contact: <a href=\"mailto:editorial@morenews.org\">editorial@morenews.org</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Accuracy and Updates",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "We aim for accuracy and timely updates, but news evolves. Information may change after publication. Errors are corrected transparently in accordance with our <a href=\"/corrections-policy\">Corrections Policy</a>."
+          }
+        ]
+      },
+      {
+        "heading": "Opinion and Analysis",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Opinion and analysis articles are clearly labelled and reflect the views of the individual author, not necessarily the editorial position of More News as a whole."
+          }
+        ]
+      },
+      {
+        "heading": "External Links",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Our reporting may include links to external websites for reference and further reading. We are not responsible for the content, accuracy, or privacy practices of third-party sites."
+          }
+        ]
+      },
+      {
+        "heading": "Limitation of Responsibility",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "More News provides journalism for general informational purposes. Our content should not be considered legal, medical, financial, or professional advice. Readers should seek qualified professionals for guidance specific to their circumstances."
+          }
+        ]
+      },
+      {
+        "heading": "Reader Contributions",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Where reader comments or submissions are enabled, participants are expected to engage respectfully and lawfully. Content that violates applicable UK law or community standards may be removed without notice."
+          }
+        ]
+      },
+      {
+        "heading": "Updates to These Terms",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "These Terms may be updated periodically. Changes will be posted on this page with a revised effective date. Continued use of the site after an update constitutes acceptance of the revised Terms."
+          }
+        ]
+      },
+      {
+        "heading": "Questions?",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "If you have questions about these Terms, please contact us:"
+          },
+          {
+            "type": "paragraph",
+            "html": "<a href=\"mailto:editorial@morenews.org\">editorial@morenews.org</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "More News encourages responsible sharing, proper attribution, and informed readership. Our journalism is produced independently and is accountable to our readers."
+          },
+          {
+            "type": "paragraph",
+            "html": "Last Updated: 21 May 2026"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "editorial-policy",
+    "label": "Editorial Policy",
+    "group": "policy",
+    "title": "Editorial Policy | More News – Independent UK Journalism",
+    "description": "Read the editorial policy of More News — our commitment to accuracy, independence, fairness, and transparency in UK journalism.",
+    "sections": [
+      {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "More News is an independent UK digital newsroom committed to factual, transparent, and accountable journalism. Our editorial standards exist to ensure that readers can trust our reporting and understand how our stories are produced."
+          }
+        ]
+      },
+      {
+        "heading": "Editorial Independence",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "We do not accept payment, favours, or influence in exchange for coverage. Editorial decisions are made solely by journalists and editors, free from corporate, political, or governmental interference. Commercial support, advertising, sponsorship, and distribution arrangements do not grant editorial control over reported articles."
+          },
+          {
+            "type": "paragraph",
+            "html": "If a proposed arrangement would blur that line, our standard is to decline it or remove the affected journalist from the relevant assignment."
+          }
+        ]
+      },
+      {
+        "heading": "Accuracy and Verification",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Accuracy matters more than speed. Our journalists verify information using reliable sources, document-based reporting, and direct attribution. Where information cannot be independently confirmed, that uncertainty is stated clearly in the article."
+          },
+          {
+            "type": "paragraph",
+            "html": "Errors are corrected transparently in accordance with our <a href=\"/corrections-policy\">Corrections Policy</a>. Stories involving allegations, finance, legal context, or reputationally sensitive claims are handled with careful wording and, where appropriate, source notes and pre-publication outreach to the relevant parties."
+          }
+        ]
+      },
+      {
+        "heading": "Fairness and Balance",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "We seek diverse perspectives on complex issues while avoiding false balance — that is, presenting fringe positions as equivalent to well-evidenced conclusions. Claims are evaluated on the strength of evidence and credibility, not on political convenience or editorial pressure."
+          }
+        ]
+      },
+      {
+        "heading": "Transparency",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Readers deserve to understand how reporting decisions are made. We commit to the following practices:"
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "Clearly distinguishing between news reporting, opinion, and analysis",
+              "Publishing articles under an individual journalist's byline wherever possible",
+              "Using a \"More News Staff\" byline for collaborative or multi-author reporting",
+              "Labelling sponsored, paid, affiliate, or partner-funded material clearly so readers are never in doubt about what they are reading"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Disclosure and Labelling",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "More News aims to disclose material relationships that a reasonable reader would consider relevant to understanding a piece of coverage. Paid content, sponsored placements, affiliate links, or partner-funded material should be labelled clearly and kept distinct from independently reported journalism."
+          }
+        ]
+      },
+      {
+        "heading": "Ethical Standards",
+        "blocks": []
+      },
+      {
+        "heading": "No undisclosed conflicts",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Journalists disclose relevant personal or financial relationships whenever they are applicable to a story."
+          }
+        ]
+      },
+      {
+        "heading": "No hidden sponsored content",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Paid or sponsored material is clearly labelled and kept separate from editorial reporting."
+          }
+        ]
+      },
+      {
+        "heading": "Respect for privacy",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "We balance the public's right to know with individuals' reasonable expectation of privacy and personal dignity."
+          }
+        ]
+      },
+      {
+        "heading": "Source protection",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "We protect confidential sources where anonymity is justified by the public interest, and we handle sensitive sourcing with care."
+          }
+        ]
+      },
+      {
+        "heading": "Reader Feedback and Accountability",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Journalism improves through dialogue. Readers are encouraged to contact our editorial team with feedback, corrections, or concerns. We review all substantive requests carefully and respond according to the evidence and our editorial standards."
+          }
+        ]
+      },
+      {
+        "heading": "Contact",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "<strong>Editorial:</strong> <a href=\"mailto:editorial@morenews.org\">editorial@morenews.org</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "<strong>Corrections:</strong> <a href=\"mailto:corrections@morenews.org\">corrections@morenews.org</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "Last Updated: 22 May 2026"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "corrections-policy",
+    "label": "Corrections Policy",
+    "group": "policy",
+    "title": "Corrections Policy | More News – Independent UK Journalism",
+    "description": "How More News handles errors and corrections — our commitment to accuracy and transparency in UK journalism.",
+    "sections": [
+      {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Accuracy is central to everything we publish at More News. While we verify information carefully before publication, mistakes can happen. When they do, we correct them transparently, promptly, and in a way that is visible to readers."
+          }
+        ]
+      },
+      {
+        "heading": "How We Handle Mistakes",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "The appropriate response depends on the nature of the error."
+          }
+        ]
+      },
+      {
+        "heading": "Minor Errors",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Spelling mistakes, grammatical errors, or typographical issues that do not affect the meaning of the article are corrected promptly without a correction note."
+          }
+        ]
+      },
+      {
+        "heading": "Factual Errors",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Errors involving names, figures, dates, or substantive facts are corrected within the article. A clearly labelled editor's note is added explaining what was corrected and why the change was made."
+          }
+        ]
+      },
+      {
+        "heading": "Developing Stories",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "As news evolves, articles may be updated to reflect newly verified information. Updates are time-stamped so readers can see exactly when and why changes were made."
+          }
+        ]
+      },
+      {
+        "heading": "Where Corrections Appear",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Corrections are made directly on the affected article page. We do not hide corrections in separate locations or bury them away from the original content. Depending on the nature of the issue, we may use a correction note, a clarification note, an update note, or a combination of these tools."
+          },
+          {
+            "type": "paragraph",
+            "html": "We do not silently alter the substance of a published article when a correction note or update note is warranted."
+          }
+        ]
+      },
+      {
+        "heading": "What to Include in a Correction Request",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "To help us review your request as quickly as possible, please include:"
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "The article URL or headline",
+              "The specific line or claim you believe is incorrect",
+              "The factual basis for your objection",
+              "Any supporting documentation you would like us to consider"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Our Commitment to Transparency",
+        "blocks": [
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "We do not remove errors without acknowledgement",
+              "Significant changes are disclosed clearly to readers",
+              "All correction requests are reviewed respectfully and carefully",
+              "We do not delete or quietly rewrite published content without explanation"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "html": "Trust is built through accountability. By acknowledging mistakes openly and correcting them clearly, we aim to provide journalism that readers can rely on — even when we fall short."
+          }
+        ]
+      },
+      {
+        "heading": "Submit a Correction",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "<strong>Corrections:</strong> <a href=\"mailto:corrections@morenews.org\">corrections@morenews.org</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "<strong>Editorial:</strong> <a href=\"mailto:editorial@morenews.org\">editorial@morenews.org</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "Last Updated: 22 May 2026"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "source-methodology",
+    "label": "Source Methodology",
+    "group": "policy",
+    "title": "Source Methodology | More News – Independent UK Journalism",
+    "description": "How More News sources and verifies its journalism — our approach to primary records, anonymous sources, documents, and uncertainty.",
+    "sections": [
+      {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "More News aims to show readers how our articles are built: what is sourced directly, what comes from public records or official documents, what remains unverified, and where interpretation begins."
+          }
+        ]
+      },
+      {
+        "heading": "How Reporting Begins",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "We aim to begin with verifiable material rather than recycled summaries. That may include official institutional pages, court records, regulatory disclosures, company filings, direct interviews, public statements, original media, public datasets, and contemporaneous reporting that can itself be checked against the record."
+          },
+          {
+            "type": "paragraph",
+            "html": "Our standard is to narrow wording when direct verification is incomplete. If a fact cannot be confirmed to the level the story would otherwise imply, the language is tightened until it accurately reflects what is actually known."
+          }
+        ]
+      },
+      {
+        "heading": "Source Hierarchy and Verification",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Wherever possible, More News prefers primary documents and firsthand sourcing over tertiary summaries. Official records and direct statements are generally stronger than rumour, aggregation, or unattributed repetition."
+          },
+          {
+            "type": "paragraph",
+            "html": "A source's prominence does not remove the need for verification. Claims from public officials, corporate actors, campaign representatives, or prominent commentators are still subject to checking, context, and qualification."
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "Primary records and firsthand sourcing are preferred wherever available",
+              "Secondary reporting may be used, but is not repeated as certainty when the underlying claim remains unsettled",
+              "Where chronology, figures, or legal context are central to the story, those details are checked against the underlying document or source wherever feasible"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Anonymous Sources and Background Information",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "More News does not treat anonymity as a shortcut. Anonymous or background sourcing may be used when the information is in the public interest and cannot be responsibly obtained on the record. In such cases, the newsroom understands the source's identity and evaluates their motive, access, and reliability."
+          },
+          {
+            "type": "paragraph",
+            "html": "When anonymity is granted, we give readers as much truthful context as possible about why the source is being protected — without needlessly exposing the source."
+          }
+        ]
+      },
+      {
+        "heading": "Documents, Media, and Data",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Documents, screenshots, audio, video, and data extracts are reviewed with care. We check provenance, timing, authenticity, and whether a clip or excerpt may be misleading without broader context."
+          },
+          {
+            "type": "paragraph",
+            "html": "A document's existence is not the same as a document proving the broadest possible claim. Our standard is to describe what a record shows, what it does not show, and where interpretation begins."
+          }
+        ]
+      },
+      {
+        "heading": "Attribution and Source Notes",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "For trust-sensitive reporting — including finance explainers, profiles, legal-context pieces, and institution-focused reporting — More News may include source notes or primary links so readers can inspect the public record themselves."
+          },
+          {
+            "type": "paragraph",
+            "html": "Attribution should be specific enough for readers to understand where key information came from. Where a story relies on public record, official statements, or direct institutional descriptions, we signal that clearly rather than burying the sourcing logic."
+          }
+        ]
+      },
+      {
+        "heading": "How We Treat Uncertainty and Change",
+        "blocks": [
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "We do not convert uncertainty into certainty for headline effect",
+              "We distinguish analysis from assertion",
+              "We update wording when better sourcing becomes available or when the public record materially changes",
+              "If a claim is unresolved, contested, or incomplete, the article says so rather than implying a settled conclusion"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Contact",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "<strong>Editorial:</strong> <a href=\"mailto:editorial@morenews.org\">editorial@morenews.org</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "<strong>Corrections:</strong> <a href=\"mailto:corrections@morenews.org\">corrections@morenews.org</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "Last Updated: 22 May 2026"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "ownership-and-funding",
+    "label": "Ownership And Funding",
+    "group": "policy",
+    "title": "Ownership & Funding | More News – Independent UK Journalism",
+    "description": "Who controls editorial decisions at More News, how we are funded, and how we handle conflicts of interest and material relationships.",
+    "sections": [
+      {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "This page explains who controls editorial decisions at More News, how our commercial arrangements are kept separate from journalism, and how we handle conflicts of interest and material relationships."
+          }
+        ]
+      },
+      {
+        "heading": "What This Page Covers",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "More News publishes as an independent digital newsroom operated by a distributed editorial team based in the United Kingdom. This page is a reader-facing explanation of how editorial control, commercial support, and conflict disclosures are handled. It is not a substitute for a corporate registry filing or a formal securities disclosure."
+          }
+        ]
+      },
+      {
+        "heading": "Editorial Control and Decision-Making",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Editorial judgements at More News are made by editors and reporters. Coverage decisions, headlines, source selection, framing, and publication timing are not sold to advertisers, sponsors, political actors, governments, or commercial partners."
+          },
+          {
+            "type": "paragraph",
+            "html": "A business relationship does not create a right to favourable coverage, prior review of a reported article, or suppression of accurate reporting. If a proposed arrangement would blur those lines, our standard is to decline it or remove the affected journalist from the assignment."
+          }
+        ]
+      },
+      {
+        "heading": "How More News May Be Funded",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "More News may generate revenue through advertising, sponsorships, platform distribution, licensing, partnerships, and other ordinary publishing-related commercial arrangements. Any such revenue stream is expected to remain structurally separate from editorial decision-making."
+          },
+          {
+            "type": "paragraph",
+            "html": "If More News enters into a material funding relationship, ownership change, or strategic arrangement that a reasonable reader would consider relevant to our editorial independence, the newsroom's expectation is that the relationship is disclosed on this page, on affected coverage, or both."
+          }
+        ]
+      },
+      {
+        "heading": "Conflicts of Interest and Recusals",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Journalists and editors are expected to disclose personal, financial, political, or family relationships that could reasonably call their impartiality into question on a relevant assignment. Where necessary, the assignment should be moved, edited with explicit disclosure, or declined."
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "Relevant personal or financial ties must be disclosed internally before publication",
+              "Gifts, favours, or special access that would compromise independence should not be accepted",
+              "Outside work, advocacy, or consulting that conflicts with newsroom independence must be disclosed and may require reassignment"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Commercial Support Does Not Buy Coverage",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "More News maintains a clear boundary between revenue activity and journalism. Advertising or sponsorship does not guarantee coverage, shape a reporter's conclusions, or entitle a commercial party to veto criticism."
+          },
+          {
+            "type": "paragraph",
+            "html": "Paid content, sponsored features, affiliate relationships, and other commercial material are labelled clearly enough that a reader does not have to guess whether they are reading journalism or advertising."
+          }
+        ]
+      },
+      {
+        "heading": "Political, Governmental, and Advocacy Influence",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "More News does not present political, governmental, or advocacy messaging as independent reporting. If an external actor seeks to influence coverage through money, access, or pressure, our standard is to preserve editorial control rather than trade independence for convenience."
+          },
+          {
+            "type": "paragraph",
+            "html": "When a story concerns a subject with which More News has a material relationship, the relationship is disclosed in language a reader can understand."
+          }
+        ]
+      },
+      {
+        "heading": "Changes to Ownership or Material Support",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "If More News undergoes a material ownership change, takes on a relationship that bears directly on editorial independence, or launches a funding structure that a reasonable reader should know about, this page will be updated accordingly. Readers who believe a relevant ownership or funding relationship has not been disclosed are welcome to contact the newsroom and request a review."
+          }
+        ]
+      },
+      {
+        "heading": "Contact",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "<strong>Editorial:</strong> <a href=\"mailto:editorial@morenews.org\">editorial@morenews.org</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "<strong>Corrections &amp; Transparency:</strong> <a href=\"mailto:corrections@morenews.org\">corrections@morenews.org</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "Last Updated: 22 May 2026"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "advertising-policy",
+    "label": "Advertising Policy",
+    "group": "policy",
+    "title": "Advertising & Sponsored Content Policy | More News",
+    "description": "How More News separates commercial material from editorial journalism and labels advertising, sponsorships, and affiliate content clearly for readers.",
+    "sections": [
+      {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "More News separates commercial material from editorial reporting and labels advertising, sponsorships, affiliate links, and other paid relationships clearly and conspicuously so readers always know what they are reading."
+          }
+        ]
+      },
+      {
+        "heading": "Editorial Separation",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Commercial relationships do not grant editorial control. Reporting decisions, headlines, editorial framing, source selection, and publication timing are not sold as part of any advertising, affiliate, sponsorship, or partnership arrangement."
+          },
+          {
+            "type": "paragraph",
+            "html": "Our standard is that journalism and advertising should be distinguishable without guesswork. A reader should never have to infer whether content is paid for, promotional, or independently reported."
+          }
+        ]
+      },
+      {
+        "heading": "How Paid Material Is Labelled",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "When content is paid for, sponsored, or published as a result of a commercial arrangement, the disclosure appears in a prominent location and uses plain language that ordinary readers can understand before engaging with the material."
+          },
+          {
+            "type": "paragraph",
+            "html": "Clear labels may include:"
+          },
+          {
+            "type": "paragraph",
+            "html": "Advertisement"
+          },
+          {
+            "type": "paragraph",
+            "html": "Ad"
+          },
+          {
+            "type": "paragraph",
+            "html": "Sponsored"
+          },
+          {
+            "type": "paragraph",
+            "html": "Paid Content"
+          },
+          {
+            "type": "paragraph",
+            "html": "Sponsored Advertising Content"
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "Disclosure appears close enough to the content that a reader sees it before or as they engage — not only after scrolling deep into the page",
+              "Visual design, bylines, and page layout are not used to make paid material look like independently reported journalism",
+              "Vague labels that could confuse readers are avoided"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Native, Branded, and Partner Content",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "If More News publishes sponsored features, branded content, partner-funded explainer material, or similarly designed promotional pages, those pages carry a disclosure that is prominent, written in plain language, and durable across desktop and mobile views."
+          },
+          {
+            "type": "paragraph",
+            "html": "A sponsor may buy placement or a clearly labelled promotional package, but a sponsor does not buy the right to masquerade as the newsroom, receive a deceptive byline, or alter unrelated editorial reporting."
+          }
+        ]
+      },
+      {
+        "heading": "Affiliate Links, Commerce, and Material Connections",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Where More News uses affiliate links, referral arrangements, or any other material connection that may result in compensation when a reader clicks or makes a purchase, that relationship is disclosed clearly in or near the affected content."
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "Affiliate or referral disclosures are clear and conspicuous",
+              "Material connections are not hidden only in a footer or general policy page when they affect a specific piece of content",
+              "Editorial recommendations are not conditioned on compensation alone"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Newsletters, Video, Audio, and Social Distribution",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Disclosure standards apply across all formats. Sponsored newsletter placements, paid podcast segments, video sponsorships, and social media promotions are labelled in a way that travels with the content or appears clearly at the point of exposure. The format may change, but the principle does not: paid communication should look paid, not editorially disguised."
+          }
+        ]
+      },
+      {
+        "heading": "Political and Issue Advertising",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "If More News accepts political, advocacy, or issue-based advertising, the material is clearly labelled as advertising and is not presented as reported journalism or independent analysis. Acceptance of an advertisement does not imply endorsement of a campaign, candidate, issue position, organisation, or claim contained within it."
+          }
+        ]
+      },
+      {
+        "heading": "Practices More News Does Not Use",
+        "blocks": [
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "Selling editorial conclusions or offering favourable coverage in exchange for payment or access",
+              "Using a newsroom byline or article layout to disguise paid material where the commercial nature is not obvious",
+              "Allowing an advertiser, sponsor, or affiliate partner to control unrelated editorial reporting",
+              "Hiding a material connection in a location a normal reader would not reasonably notice"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Contact",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "<strong>Advertising &amp; Partnerships:</strong> <a href=\"mailto:editorial@morenews.org\">editorial@morenews.org</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "<strong>Reader Concerns:</strong> <a href=\"mailto:corrections@morenews.org\">corrections@morenews.org</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "Last Updated: 22 May 2026"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "right-of-reply",
+    "label": "Right Of Reply",
+    "group": "policy",
+    "title": "Right of Reply Policy | More News – Independent UK Journalism",
+    "description": "More News gives relevant people and organisations a fair opportunity to respond when criticism or serious allegations are central to a story.",
+    "sections": [
+      {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "More News aims to give relevant people and institutions a fair opportunity to respond when criticism, allegations, or materially disputed factual context are central to a story."
+          }
+        ]
+      },
+      {
+        "heading": "When We Seek a Response",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "If a story includes criticism, allegations, serious factual dispute, or materially adverse claims about a person or institution, More News aims to seek a response before publication when it is feasible and when doing so does not compromise necessary reporting, safety, or legitimate public-interest journalism."
+          },
+          {
+            "type": "paragraph",
+            "html": "The purpose is not to offer editorial control to the subject of reporting. It is to test the story against relevant rebuttal, correction, or context before publication where circumstances warrant it."
+          }
+        ]
+      },
+      {
+        "heading": "How Outreach Is Handled",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "The method and timing of outreach may vary with the story. More News may contact a subject or representative by email, phone, public contact channel, legal counsel, or other reasonable means depending on the nature of the allegation and the urgency of publication."
+          },
+          {
+            "type": "paragraph",
+            "html": "A reasonable opportunity to respond does not always mean an unlimited one. Fast-moving stories, breaking developments, public-safety issues, and time-sensitive reporting may require shorter response windows than feature or investigative work."
+          }
+        ]
+      },
+      {
+        "heading": "What to Send If You Are Seeking a Reply or Correction",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "If you are contacting More News in response to published or pending coverage, please include:"
+          },
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "The article URL or headline",
+              "The specific claim you dispute",
+              "The factual basis for your objection",
+              "Any supporting documents you would like the newsroom to review",
+              "The best contact details for follow-up"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "html": "General denials without specifics are less helpful than direct identification of what is said to be wrong, incomplete, misleading, or out of date."
+          }
+        ]
+      },
+      {
+        "heading": "Post-Publication Responses",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "After publication, a person or institution that believes context is missing or materially wrong may contact the newsroom. Relevant responses may lead to a clarification, correction, update note, follow-up coverage, or no change if the reporting remains well supported."
+          },
+          {
+            "type": "paragraph",
+            "html": "More News may publish or summarise a substantive response when it materially helps readers understand a dispute or the evidentiary record."
+          }
+        ]
+      },
+      {
+        "heading": "What This Policy Does Not Guarantee",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "A right-of-reply request does not guarantee publication of a full statement, removal of accurate reporting, or advance approval of an article by the subject of that article."
+          },
+          {
+            "type": "paragraph",
+            "html": "It does mean the newsroom reviews the request seriously, compares it against the evidence, and responds according to its editorial standards and corrections process."
+          }
+        ]
+      },
+      {
+        "heading": "Urgent Matters and Legal Sensitivity",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Where a story concerns active legal proceedings, regulatory matters, allegations of misconduct, or reputationally sensitive claims, More News's standard is to handle outreach carefully and document the response process in the newsroom's working record. A reply request should improve factual accuracy, not become a route to pressure the newsroom into weakening well-supported reporting."
+          }
+        ]
+      },
+      {
+        "heading": "Contact",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "<strong>Editorial:</strong> <a href=\"mailto:editorial@morenews.org\">editorial@morenews.org</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "<strong>Corrections:</strong> <a href=\"mailto:corrections@morenews.org\">corrections@morenews.org</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "Last Updated: 22 May 2026"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "legal",
+    "label": "Legal",
+    "group": "policy",
+    "title": "Legal | More News – Independent UK Journalism",
+    "description": "Legal and compliance information for More News — covering copyright, complaints, removal requests, formal notices, and the use of our content.",
+    "sections": [
+      {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "This page provides a plain-language overview of legal and compliance topics relevant to More News — covering publishing, reader use of our content, complaints, permissions, and formal requests."
+          }
+        ]
+      },
+      {
+        "heading": "Informational Use of More News Content",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "More News publishes journalism, analysis, and explanatory material for informational purposes. Articles are edited to newsroom standards, but they should not be treated as legal, financial, tax, medical, or other professional advice tailored to an individual reader's situation."
+          },
+          {
+            "type": "paragraph",
+            "html": "Where a story touches on legal, regulatory, or financial matters, More News aims to use precise sourcing and carefully bounded language. Readers remain responsible for seeking appropriate professional advice when they need it."
+          }
+        ]
+      },
+      {
+        "heading": "Copyright, Quotation, and Reuse",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "Readers may link to More News reporting and quote brief excerpts with clear attribution where applicable law permits. Republishing full articles, bulk reproduction, commercial reuse, scraping for republication, or systematic copying requires permission unless a separate licence or legal exception applies."
+          },
+          {
+            "type": "paragraph",
+            "html": "If you wish to syndicate, reproduce, translate, archive commercially, or otherwise reuse substantial More News content, please contact the newsroom before doing so."
+          }
+        ]
+      },
+      {
+        "heading": "Complaints About Accuracy, Rights, or Fairness",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "If you believe a More News article contains a material factual error, omits critical context, infringes rights, or raises a serious legal concern, please contact the newsroom promptly. Include the specific URL, the exact material at issue, the basis for your concern, and supporting documentation where available."
+          },
+          {
+            "type": "paragraph",
+            "html": "Different complaints may be handled under different processes. A factual dispute may be reviewed under the corrections or right-of-reply process, while a copyright, privacy, or other rights complaint may require separate review."
+          }
+        ]
+      },
+      {
+        "heading": "What to Include in a Formal Request",
+        "blocks": []
+      },
+      {
+        "heading": "Please include the following:",
+        "blocks": [
+          {
+            "type": "list",
+            "ordered": false,
+            "items": [
+              "The URL or headline of the content at issue",
+              "A clear description of the statement, image, or other material you are challenging",
+              "The legal or factual basis for the request, including supporting documents where relevant",
+              "Your name, organisation if applicable, and a reliable contact method for follow-up",
+              "If you are acting on behalf of someone else, a brief statement of your authority to do so"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Removal, Restriction, and Update Requests",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "More News reviews serious requests for correction, clarification, update, removal, or restricted display. Submission of a request does not by itself guarantee removal of accurate reporting or immediate depublication."
+          },
+          {
+            "type": "paragraph",
+            "html": "The newsroom evaluates each request against the public record, editorial standards, applicable law, and the public interest. In some cases the appropriate response may be a correction, clarification, update note, or follow-up article rather than removal."
+          }
+        ]
+      },
+      {
+        "heading": "Links to Third-Party Material",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "More News may link to third-party sites, official records, social platforms, public databases, and outside documents for sourcing and reader context. Those external properties are governed by their own terms, policies, and accuracy standards. A link to a third-party source does not mean More News endorses every statement or policy on that external site."
+          }
+        ]
+      },
+      {
+        "heading": "Contact",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "html": "<strong>General legal contact:</strong> <a href=\"mailto:editorial@morenews.org\">editorial@morenews.org</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "<strong>Corrections &amp; factual concerns:</strong> <a href=\"mailto:corrections@morenews.org\">corrections@morenews.org</a>"
+          },
+          {
+            "type": "paragraph",
+            "html": "Last Updated: 22 May 2026"
+          }
+        ]
+      }
+    ]
+  }
+]

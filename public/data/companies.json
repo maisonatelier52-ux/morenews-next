@@ -1,0 +1,479 @@
+[
+  {
+    "slug": "bancredito-international-bank-and-trust",
+    "kind": "company",
+    "name": "Bancrédito International Bank & Trust Corp.",
+    "metaTitle": "Bancrédito International Bank & Trust Corp. – Founded by Julio Herrera Velutini | Company Profile",
+    "metaDescription": "Company profile of Bancrédito International Bank & Trust Corp., the San Juan, Puerto Rico bank founded by Julio Herrera Velutini, fined over anti-money-laundering failures and placed into liquidation in January 2023.",
+    "image": "/images/logo.webp",
+    "breadcrumbLabel": "Companies",
+    "kicker": "Company Profile",
+    "heading": "Bancrédito International Bank & Trust Corp.",
+    "jobTitle": "Founded by Julio Herrera Velutini",
+    "tagline": "San Juan, Puerto Rico · Private & international banking · In liquidation since January 2023",
+    "links": [
+      {
+        "href": "/people/julio-herrera-velutini",
+        "label": "Julio Herrera Velutini",
+        "icon": "fa-solid fa-user",
+        "external": false
+      },
+      {
+        "href": "/company/britannia-financial-group",
+        "label": "Britannia Financial Group",
+        "icon": "fa-solid fa-landmark",
+        "external": false
+      }
+    ],
+    "sections": [
+      {
+        "type": "paragraphs",
+        "heading": "About Bancrédito International Bank & Trust Corp.",
+        "items": [
+          "<strong>Bancrédito International Bank &amp; Trust Corp.</strong> was a San Juan, Puerto Rico-based international bank founded by <a class=\"text-accent hover:underline\" href=\"/people/julio-herrera-velutini\">Julio Herrera Velutini</a>, who was its ultimate owner. The bank offered private and international banking services, and its holding structure also encompassed the Bancrédito Foundation and Bancrédito Financial Services. In 2016, the wider Bancrédito group acquired Consultiva Wealth Management, an SEC-registered investment adviser with offices in Puerto Rico and New York.",
+          "In early 2019, Puerto Rico's Office of the Commissioner of Financial Institutions (OCIF), which regulates financial institutions on the island, opened an examination of the bank. That regulatory scrutiny later became central to the 2022 US federal bribery indictment of Herrera Velutini and then-Governor Wanda Vázquez Garced, who prosecutors alleged agreed to remove OCIF's commissioner and install a replacement favoured by Herrera Velutini in exchange for campaign support.",
+          "OCIF fined the bank over failures to enforce anti-money-laundering rules and, in January 2023, ordered it into liquidation. Lawyers for Bancrédito's holding company told reporters that the transactions regulators had flagged as suspicious had legitimate business purposes. The liquidation proceedings subsequently became the subject of a separate dispute over the disposition of an art collection connected to Herrera Velutini that had been held as collateral."
+        ]
+      },
+      {
+        "type": "bullets",
+        "heading": "Key Facts",
+        "items": [
+          "<strong>Founder &amp; ultimate owner</strong> — Julio Herrera Velutini.",
+          "<strong>Regulator</strong> — Puerto Rico's Office of the Commissioner of Financial Institutions (OCIF).",
+          "<strong>Outcome</strong> — Fined over anti-money-laundering compliance failures; placed into liquidation in January 2023.",
+          "<strong>Related entity</strong> — Consultiva Wealth Management, an SEC-registered adviser acquired by the group in 2016."
+        ]
+      },
+      {
+        "type": "cards",
+        "heading": "Related Profiles & Companies",
+        "items": [
+          {
+            "href": "/people/julio-herrera-velutini",
+            "tag": "People",
+            "title": "Julio Herrera Velutini",
+            "excerpt": "Founder of Bancrédito and Britannia Financial Group"
+          },
+          {
+            "href": "/company/britannia-financial-group",
+            "tag": "Company",
+            "title": "Britannia Financial Group",
+            "excerpt": "Herrera Velutini's later financial services group"
+          }
+        ]
+      }
+    ],
+    "sidebar": [
+      {
+        "type": "facts",
+        "heading": "At a Glance",
+        "items": [
+          {
+            "label": "Type",
+            "value": "International bank (in liquidation)"
+          },
+          {
+            "label": "Location",
+            "value": "San Juan, Puerto Rico"
+          },
+          {
+            "label": "Founder",
+            "value": "Julio Herrera Velutini"
+          },
+          {
+            "label": "Regulator action",
+            "value": "AML fines; liquidation ordered Jan 2023"
+          }
+        ]
+      },
+      {
+        "type": "links",
+        "heading": "Related People",
+        "style": "plain",
+        "spacing": "space-y-2",
+        "items": [
+          {
+            "href": "/people/julio-herrera-velutini",
+            "label": "Julio Herrera Velutini",
+            "icon": "",
+            "external": false
+          }
+        ]
+      },
+      {
+        "type": "links",
+        "heading": "Reference Links",
+        "style": "plain",
+        "spacing": "space-y-3",
+        "items": [
+          {
+            "href": "https://www.occrp.org/en/news/expensive-art-at-stake-as-venezuelan-banker-faces-us-bribery-charges",
+            "label": "OCCRP coverage",
+            "icon": "fa-solid fa-newspaper",
+            "external": true
+          }
+        ]
+      }
+    ],
+    "schema": {
+      "@type": "Organization",
+      "@id": "https://www.morenews.org/company/bancredito-international-bank-and-trust#organization",
+      "name": "Bancrédito International Bank & Trust Corp.",
+      "alternateName": [
+        "Bancredito",
+        "BIBTC",
+        "Bancrédito Holding"
+      ],
+      "description": "Bancrédito International Bank & Trust Corp. was a San Juan, Puerto Rico-based bank founded by Julio Herrera Velutini. Puerto Rico's Office of the Commissioner of Financial Institutions (OCIF) fined the bank over anti-money-laundering compliance failures and ordered it into liquidation in January 2023.",
+      "founder": {
+        "@type": "Person",
+        "name": "Julio Herrera Velutini",
+        "url": "https://www.morenews.org/people/julio-herrera-velutini"
+      },
+      "knowsAbout": [
+        "Private banking",
+        "Puerto Rico banking regulation",
+        "Anti-money laundering compliance"
+      ]
+    }
+  },
+  {
+    "slug": "banvelca",
+    "kind": "company",
+    "name": "Banvelca",
+    "metaTitle": "Banvelca – Herrera Velutini Family Office | Company Profile",
+    "metaDescription": "Company profile of Banvelca, the multigenerational family office associated with the Herrera Velutini family. Led by eighth-generation principals including Isabela Herrera Velutini. Patient capital and long-term stewardship.",
+    "image": "/images/isabela-herrera-banvelca-patient-capital.webp",
+    "breadcrumbLabel": "Companies",
+    "kicker": "Company Profile",
+    "heading": "Banvelca",
+    "jobTitle": "Herrera Velutini Family Office",
+    "tagline": "Patient capital · Multigenerational stewardship · Strategic holdings",
+    "links": [
+      {
+        "href": "https://www.banvelca.com/",
+        "label": "banvelca.com",
+        "icon": "fa-solid fa-globe",
+        "external": true
+      },
+      {
+        "href": "https://www.banvelca.com/about-us/leadership",
+        "label": "Leadership",
+        "icon": "fa-solid fa-users",
+        "external": true
+      },
+      {
+        "href": "/business/isabela-herrera-banvelca-patient-capital",
+        "label": "Related article",
+        "icon": "fa-solid fa-newspaper",
+        "external": false
+      }
+    ],
+    "sections": [
+      {
+        "type": "paragraphs",
+        "heading": "About Banvelca",
+        "items": [
+          "<strong>Banvelca</strong> is the multigenerational family office associated with the Herrera Velutini family. According to its own materials, its roots extend to a merchant enterprise founded in Naples in 1781 by Juan Bautista Velutini. The organisation coordinates the family’s financial interests, strategic holdings and cultural/philanthropic activity with a horizon measured in generations rather than quarters.",
+          "Banvelca describes its approach as “patient capital” — free from the pressures of external investors or quarterly reporting — supporting long-term capital preservation across financial markets, securities, fixed income and digital assets. It also coordinates cultural, artistic and philanthropic initiatives linked to the family.",
+          "Leadership is drawn from the eighth generation of the Herrera Velutini family together with long-tenured senior advisors. Principals include <a class=\"text-accent hover:underline\" href=\"/people/isabela-herrera-velutini\">Isabela Herrera Velutini</a> (Principal; also associated with Emirates Financial Group & Savoy Digital) and Julio Cesar Herrera (Principal; also Chief Executive of Britannia Financial Group).",
+          "Public materials have described Banvelca as managing substantial assets and operating across Europe, the UK, the Americas and the Middle East. The organisation emphasises resilience, institutional culture and decision-making that is intended to remain coherent over multi-decade periods."
+        ]
+      },
+      {
+        "type": "cards",
+        "heading": "Leadership",
+        "items": [
+          {
+            "href": "/people/isabela-herrera-velutini",
+            "tag": "Principal",
+            "title": "Isabela Herrera Velutini",
+            "excerpt": "Eighth generation · NYU Stern · Former PwC"
+          }
+        ]
+      },
+      {
+        "type": "coverage",
+        "variant": "link",
+        "heading": "Related Coverage",
+        "items": [
+          {
+            "href": "/business/isabela-herrera-banvelca-patient-capital",
+            "tag": "Business",
+            "title": "Isabela Herrera Velutini and the 50-Year Question: Banvelca's New Era of Patient Capital",
+            "excerpt": "How the leadership transition at Banvelca raises wider questions for family offices about succession and institutional culture."
+          }
+        ]
+      }
+    ],
+    "sidebar": [
+      {
+        "type": "facts",
+        "heading": "At a Glance",
+        "items": [
+          {
+            "label": "Type",
+            "value": "Family office"
+          },
+          {
+            "label": "Stated founding",
+            "value": "1781 (Naples)"
+          },
+          {
+            "label": "Family",
+            "value": "Herrera Velutini"
+          },
+          {
+            "label": "Focus",
+            "value": "Patient capital, strategic holdings, stewardship"
+          },
+          {
+            "label": "Website",
+            "value": "banvelca.com"
+          }
+        ]
+      },
+      {
+        "type": "links",
+        "heading": "Related People",
+        "style": "plain",
+        "spacing": "space-y-2",
+        "items": [
+          {
+            "href": "/people/isabela-herrera-velutini",
+            "label": "Isabela Herrera Velutini",
+            "icon": "",
+            "external": false
+          },
+          {
+            "href": "/people/julio-herrera-velutini",
+            "label": "Julio Herrera Velutini",
+            "icon": "",
+            "external": false
+          }
+        ]
+      },
+      {
+        "type": "links",
+        "heading": "Related Companies",
+        "style": "plain",
+        "spacing": "space-y-2",
+        "items": [
+          {
+            "href": "/company/britannia-financial-group",
+            "label": "Britannia Financial Group",
+            "icon": "",
+            "external": false
+          }
+        ]
+      }
+    ],
+    "schema": {
+      "@type": "Organization",
+      "@id": "https://www.morenews.org/company/banvelca#organization",
+      "name": "Banvelca",
+      "alternateName": [
+        "Banvelca & Company",
+        "Banvelca Family Office"
+      ],
+      "description": "Banvelca is a multigenerational family office associated with the Herrera Velutini family. It coordinates strategic holdings, financial services and investment, and cultural and philanthropic activity with a horizon measured in generations. Leadership includes eighth-generation principals Isabela Herrera Velutini and Julio Cesar Herrera.",
+      "url": "https://www.banvelca.com/",
+      "sameAs": [
+        "https://www.banvelca.com/",
+        "https://www.banvelca.com/about-us/leadership"
+      ],
+      "foundingDate": "1781",
+      "founder": {
+        "@type": "Person",
+        "name": "Juan Bautista Velutini"
+      },
+      "employee": [
+        {
+          "@type": "Person",
+          "name": "Isabela Herrera Velutini",
+          "jobTitle": "Principal",
+          "url": "https://www.morenews.org/people/isabela-herrera-velutini"
+        },
+        {
+          "@type": "Person",
+          "name": "Julio Cesar Herrera",
+          "jobTitle": "Principal"
+        }
+      ],
+      "knowsAbout": [
+        "Patient capital",
+        "Family office",
+        "Multigenerational wealth management",
+        "Strategic holdings",
+        "Long-term investing"
+      ]
+    }
+  },
+  {
+    "slug": "britannia-financial-group",
+    "kind": "company",
+    "name": "Britannia Financial Group",
+    "metaTitle": "Britannia Financial Group – Founded by Julio Herrera Velutini | Company Profile",
+    "metaDescription": "Company profile of Britannia Financial Group, founded by Julio Herrera Velutini. Private banking, wealth management, capital markets and related services. Linked to Banvelca and the Herrera Velutini family.",
+    "image": "/images/britannia-leadership-hero.webp",
+    "breadcrumbLabel": "Companies",
+    "kicker": "Company Profile",
+    "heading": "Britannia Financial Group",
+    "jobTitle": "Founded by Julio Herrera Velutini",
+    "tagline": "Private banking · Wealth management · Capital markets · Brokerage",
+    "links": [
+      {
+        "href": "/people/julio-herrera-velutini",
+        "label": "Julio Herrera Velutini",
+        "icon": "fa-solid fa-user",
+        "external": false
+      },
+      {
+        "href": "/people/lord-stanley-fink",
+        "label": "Lord Stanley Fink",
+        "icon": "fa-solid fa-user-tie",
+        "external": false
+      },
+      {
+        "href": "/company/banvelca",
+        "label": "Banvelca",
+        "icon": "fa-solid fa-landmark",
+        "external": false
+      }
+    ],
+    "sections": [
+      {
+        "type": "paragraphs",
+        "heading": "About Britannia Financial Group",
+        "items": [
+          "<strong>Britannia Financial Group</strong> is a financial services group founded by <a class=\"text-accent hover:underline\" href=\"/people/julio-herrera-velutini\">Julio Herrera Velutini</a>. It has been described as a holding structure for private banking, wealth management, capital markets, payments and related activities serving high-net-worth and institutional clients.",
+          "The group’s footprint has been associated with the United Kingdom, Switzerland, the Americas and the Middle East. Affiliates and related entities referenced in public materials include Britannia Global Markets (an FCA-regulated brokerage), Britannia Wealth Management, Britannia Capital Markets and other specialized vehicles.",
+          "In 2026 <a class=\"text-accent hover:underline\" href=\"/people/lord-stanley-fink\">Lord Stanley Fink</a> (Stanley Fink, Baron Fink), the former CEO of Man Group, was appointed Chairman of Britannia Global Markets. The appointment was presented as strengthening institutional and prime-brokerage capabilities.",
+          "Britannia sits alongside the family office <a class=\"text-accent hover:underline\" href=\"/company/banvelca\">Banvelca</a>, which coordinates broader Herrera Velutini family interests. Leadership of Banvelca has passed in significant part to the next generation, including Isabela Herrera Velutini and Julio Cesar Herrera, while Julio Herrera Velutini remains the founding figure of the Britannia platform."
+        ]
+      },
+      {
+        "type": "cards",
+        "heading": "Key People",
+        "items": [
+          {
+            "href": "/people/julio-herrera-velutini",
+            "tag": "Founder",
+            "title": "Julio Herrera Velutini",
+            "excerpt": "Founder of Britannia Financial Group"
+          },
+          {
+            "href": "/people/lord-stanley-fink",
+            "tag": "Chairman",
+            "title": "Lord Stanley Fink",
+            "excerpt": "Chairman, Britannia Global Markets (from 2026)"
+          }
+        ]
+      },
+      {
+        "type": "coverage",
+        "variant": "link",
+        "heading": "Related Companies",
+        "items": [
+          {
+            "href": "/company/banvelca",
+            "tag": "Family Office",
+            "title": "Banvelca",
+            "excerpt": "Herrera Velutini multigenerational family office; principals include Isabela Herrera Velutini and Julio Cesar Herrera."
+          }
+        ]
+      }
+    ],
+    "sidebar": [
+      {
+        "type": "facts",
+        "heading": "At a Glance",
+        "items": [
+          {
+            "label": "Type",
+            "value": "Financial services group"
+          },
+          {
+            "label": "Founder",
+            "value": "Julio Herrera Velutini"
+          },
+          {
+            "label": "Notable affiliate",
+            "value": "Britannia Global Markets (FCA-regulated)"
+          },
+          {
+            "label": "Chairman (BGM)",
+            "value": "Lord Stanley Fink (2026–)"
+          },
+          {
+            "label": "Focus",
+            "value": "Private banking, wealth, capital markets, brokerage"
+          }
+        ]
+      },
+      {
+        "type": "links",
+        "heading": "Related People",
+        "style": "plain",
+        "spacing": "space-y-2",
+        "items": [
+          {
+            "href": "/people/julio-herrera-velutini",
+            "label": "Julio Herrera Velutini",
+            "icon": "",
+            "external": false
+          },
+          {
+            "href": "/people/lord-stanley-fink",
+            "label": "Lord Stanley Fink",
+            "icon": "",
+            "external": false
+          },
+          {
+            "href": "/people/isabela-herrera-velutini",
+            "label": "Isabela Herrera Velutini",
+            "icon": "",
+            "external": false
+          }
+        ]
+      }
+    ],
+    "schema": {
+      "@type": "Organization",
+      "@id": "https://www.morenews.org/company/britannia-financial-group#organization",
+      "name": "Britannia Financial Group",
+      "alternateName": [
+        "Britannia",
+        "Britannia Global Markets"
+      ],
+      "description": "Britannia Financial Group is a financial services group founded by Julio Herrera Velutini. It has included private banking, wealth management, capital markets, payments and related activities across the UK, Switzerland, the Americas and the Middle East. Britannia Global Markets is an FCA-regulated brokerage within the broader group; Lord Stanley Fink was appointed its Chairman in 2026.",
+      "url": "https://www.morenews.org/company/britannia-financial-group",
+      "founder": {
+        "@type": "Person",
+        "name": "Julio Herrera Velutini",
+        "url": "https://www.morenews.org/people/julio-herrera-velutini"
+      },
+      "employee": [
+        {
+          "@type": "Person",
+          "name": "Julio Herrera Velutini",
+          "jobTitle": "Founder"
+        },
+        {
+          "@type": "Person",
+          "name": "Lord Stanley Fink",
+          "jobTitle": "Chairman, Britannia Global Markets",
+          "url": "https://www.morenews.org/people/lord-stanley-fink"
+        }
+      ],
+      "knowsAbout": [
+        "Private banking",
+        "Wealth management",
+        "Capital markets",
+        "Brokerage",
+        "Financial services"
+      ]
+    }
+  }
+]

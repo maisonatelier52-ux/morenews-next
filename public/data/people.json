@@ -1,0 +1,530 @@
+[
+  {
+    "slug": "isabela-herrera-velutini",
+    "kind": "people",
+    "name": "Isabela Herrera Velutini",
+    "metaTitle": "Isabela Herrera Velutini – Principal of Banvelca | Profile",
+    "metaDescription": "Profile of Isabela Herrera Velutini, eighth-generation Herrera Velutini family member, Principal of Banvelca, NYU Stern graduate and former PwC advisor focused on patient capital and long-term investing.",
+    "image": "/images/isabela-herrera-banvelca-patient-capital.webp",
+    "breadcrumbLabel": "Profile",
+    "heroImage": "/images/isabela-herrera-banvelca-patient-capital.webp",
+    "heroImageAlt": "Isabela Herrera Velutini, Principal of Banvelca",
+    "kicker": "Profile",
+    "heading": "Isabela Herrera Velutini",
+    "jobTitle": "Principal, Banvelca",
+    "tagline": "Eighth-generation member of the Herrera Velutini family",
+    "links": [
+      {
+        "href": "https://www.instagram.com/isabelacherrera/",
+        "label": "Instagram",
+        "icon": "fa-brands fa-instagram",
+        "external": true
+      },
+      {
+        "href": "https://www.banvelca.com/about-us/leadership",
+        "label": "Banvelca Leadership",
+        "icon": "fa-solid fa-building",
+        "external": true
+      },
+      {
+        "href": "https://finance.yahoo.com/markets/stocks/articles/isabela-herrera-assumes-leadership-banvelca-120000460.html",
+        "label": "Yahoo Finance",
+        "icon": "fa-solid fa-newspaper",
+        "external": true
+      }
+    ],
+    "sections": [
+      {
+        "type": "paragraphs",
+        "heading": "About Isabela Herrera Velutini",
+        "items": [
+          "<strong>Isabela Herrera Velutini</strong> (also known as Isabela Herrera) is an eighth-generation member of the Herrera Velutini family and Principal of Banvelca, a family office and wealth-management organisation that traces its stated origins to a merchant enterprise founded in Naples in 1781 by Juan Bautista Velutini.",
+          "In July 2026 she assumed an expanded leadership role at Banvelca. The transition has been framed publicly around the theme of patient capital — the idea that decisions should be judged by a multi-decade horizon rather than quarterly performance — and around the challenge of transferring not only capital but institutional culture and judgement across generations.",
+          "A cum laude graduate of the NYU Stern School of Business with a degree in Finance and Data Science, Herrera began her career at PricewaterhouseCoopers (PwC) in New York. There she advised senior executives on complex transactions across the financial-services sector, focusing on integration strategies and financial modelling for large-scale mergers and acquisitions involving Fortune 100 institutions.",
+          "As Principal and Chief Executive of Banvelca she oversees institutional development, cross-border initiatives and long-term expansion. She has also highlighted the convergence of traditional finance and digital assets as an area that will shape the financial architecture of the future, while stressing disciplined, selective risk-taking grounded in analysis rather than short-term market enthusiasm.",
+          "Banvelca materials describe the organisation as managing substantial assets with a horizon measured in generations, coordinating strategic holdings, financial services and cultural/philanthropic activity linked to the Herrera Velutini family across Europe, the UK, the Americas and the Middle East."
+        ]
+      },
+      {
+        "type": "bullets",
+        "heading": "Key Positions & Background",
+        "items": [
+          "<strong>Principal, Banvelca</strong> — Leadership role assumed/expanded July 2026; focuses on multigenerational governance, patient capital and institutional culture.",
+          "<strong>Senior Associate, PricewaterhouseCoopers (PwC), New York</strong> — Advised on complex financial-services transactions, integration strategies and financial modelling for large M&A deals.",
+          "<strong>Education</strong> — Cum laude graduate, NYU Stern School of Business (Finance and Data Science).",
+          "<strong>Family</strong> — Eighth generation of the Herrera Velutini banking lineage; sister of Julio Cesar Herrera. Public reports note her marriage to Matthew Carmona (Antibes, France, April 2026)."
+        ]
+      },
+      {
+        "type": "coverage",
+        "heading": "Related Coverage on More News",
+        "items": [
+          {
+            "href": "/business/isabela-herrera-banvelca-patient-capital",
+            "tag": "Business",
+            "title": "Isabela Herrera Velutini and the 50-Year Question: Banvelca's New Era of Patient Capital",
+            "excerpt": "Isabela Herrera Velutini’s leadership transition at Banvelca raises a larger question for family offices: how can capital, judgement and institutional culture survive across generations?"
+          }
+        ]
+      }
+    ],
+    "sidebar": [
+      {
+        "type": "facts",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Full name",
+            "value": "Isabela Herrera Velutini"
+          },
+          {
+            "label": "Also known as",
+            "value": "Isabela Herrera"
+          },
+          {
+            "label": "Role",
+            "value": "Principal, Banvelca"
+          },
+          {
+            "label": "Generation",
+            "value": "Eighth generation, Herrera Velutini family"
+          },
+          {
+            "label": "Education",
+            "value": "NYU Stern (Finance & Data Science), cum laude"
+          },
+          {
+            "label": "Previous",
+            "value": "Senior Associate, PwC New York"
+          }
+        ]
+      },
+      {
+        "type": "links",
+        "heading": "Official Links",
+        "style": "flex",
+        "spacing": "space-y-3",
+        "items": [
+          {
+            "href": "https://www.instagram.com/isabelacherrera/",
+            "label": "@isabelacherrera",
+            "icon": "fa-brands fa-instagram",
+            "external": true
+          },
+          {
+            "href": "https://www.banvelca.com/about-us/leadership",
+            "label": "Banvelca Leadership",
+            "icon": "fa-solid fa-building",
+            "external": true
+          },
+          {
+            "href": "https://www.banvelca.com/",
+            "label": "banvelca.com",
+            "icon": "fa-solid fa-globe",
+            "external": true
+          },
+          {
+            "href": "https://finance.yahoo.com/markets/stocks/articles/isabela-herrera-assumes-leadership-banvelca-120000460.html",
+            "label": "Yahoo Finance announcement",
+            "icon": "fa-solid fa-newspaper",
+            "external": true
+          }
+        ]
+      },
+      {
+        "type": "themes",
+        "heading": "Key Themes",
+        "items": [
+          "Patient capital",
+          "Family office",
+          "Succession",
+          "Long-term investing",
+          "Multigenerational",
+          "Banvelca"
+        ]
+      }
+    ],
+    "schema": {
+      "@type": "Person",
+      "@id": "https://www.morenews.org/people/isabela-herrera-velutini#person",
+      "name": "Isabela Herrera Velutini",
+      "alternateName": [
+        "Isabela Herrera",
+        "Isabela Herrera V"
+      ],
+      "description": "Isabela Herrera Velutini is an eighth-generation member of the Herrera Velutini banking family and Principal of Banvelca. A cum laude graduate of NYU Stern School of Business in Finance and Data Science, she previously served as a Senior Associate at PricewaterhouseCoopers (PwC) in New York, advising on complex transactions in the financial services sector. She emphasizes patient capital, multigenerational governance and disciplined long-term investing.",
+      "url": "https://www.morenews.org/people/isabela-herrera-velutini",
+      "image": "https://www.morenews.org/images/isabela-herrera-banvelca-patient-capital.webp",
+      "jobTitle": "Principal",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Banvelca",
+        "url": "https://www.banvelca.com/",
+        "description": "Family office and wealth management organisation associated with the Herrera Velutini family, with stated roots dating to 1781."
+      },
+      "alumniOf": {
+        "@type": "CollegeOrUniversity",
+        "name": "NYU Stern School of Business"
+      },
+      "sameAs": [
+        "https://www.instagram.com/isabelacherrera/",
+        "https://www.banvelca.com/about-us/leadership",
+        "https://finance.yahoo.com/markets/stocks/articles/isabela-herrera-assumes-leadership-banvelca-120000460.html"
+      ],
+      "knowsAbout": [
+        "Patient capital",
+        "Family office succession",
+        "Long-term investing",
+        "Multigenerational wealth management",
+        "Financial services",
+        "Digital assets convergence"
+      ],
+      "nationality": {
+        "@type": "Country",
+        "name": "Italy"
+      }
+    }
+  },
+  {
+    "slug": "julio-herrera-velutini",
+    "kind": "people",
+    "name": "Julio Herrera Velutini",
+    "metaTitle": "Julio Herrera Velutini – Founder of Britannia Financial Group | Profile",
+    "metaDescription": "Profile of Julio Herrera Velutini, Italian-Venezuelan banker, founder of Britannia Financial Group and seventh-generation member of the Herrera Velutini banking family.",
+    "image": "/images/julio-herrera-velutini.webp",
+    "breadcrumbLabel": "People",
+    "heroImage": "/images/julio-herrera-velutini.webp",
+    "heroImageAlt": "Julio Herrera Velutini",
+    "kicker": "Profile",
+    "heading": "Julio Herrera Velutini",
+    "jobTitle": "Founder & Chairman, Britannia Financial Group",
+    "tagline": "Seventh-generation member of the Herrera Velutini banking family",
+    "links": [
+      {
+        "href": "/company/britannia-financial-group",
+        "label": "Britannia Financial Group",
+        "icon": "fa-solid fa-building",
+        "external": false
+      },
+      {
+        "href": "/company/banvelca",
+        "label": "Banvelca",
+        "icon": "fa-solid fa-landmark",
+        "external": false
+      },
+      {
+        "href": "https://www.instagram.com/julioherreravelutini/",
+        "label": "Instagram",
+        "icon": "fa-brands fa-instagram",
+        "external": true
+      }
+    ],
+    "sections": [
+      {
+        "type": "paragraphs",
+        "heading": "About Julio Herrera Velutini",
+        "items": [
+          "<strong>Julio Herrera Velutini</strong> (born 15 December 1971) is an Italian-Venezuelan banker and the founder of Britannia Financial Group. He belongs to the seventh generation of the Herrera Velutini family, a lineage associated with private banking and commerce that Banvelca materials trace back to 1781 in Naples.",
+          "He was educated at The American School in England, La Scuola Americana in Switzerland, and the Central University of Venezuela. His career began in the early 1990s on the Caracas Stock Exchange with Multinvest Casa de Bolsa. He later became CEO of Transban Investments Corp and, at age 29, Chairman of the Board of Bolívar Banco Universal — among the youngest bank presidents in Venezuela at the time.",
+          "After roles involving Banco Real, Banreal Holding and other institutions, he founded Bancrédito International Bank and related entities, then established Britannia Financial Group (around 2009–2012) as a London- and Switzerland-linked holding focused on private banking, wealth management, capital markets, payments and related services for high-net-worth and institutional clients.",
+          "Britannia Financial Group and its affiliates have been described as operating across the UK, Switzerland, the Americas and the Middle East. The family office Banvelca continues to coordinate broader Herrera Velutini interests, with the next generation — including Isabela Herrera Velutini and Julio Cesar Herrera — taking expanded principal roles."
+        ]
+      },
+      {
+        "type": "bullets",
+        "heading": "Key Roles & Companies",
+        "items": [
+          "<strong>Founder / Chairman</strong> — Britannia Financial Group and affiliated entities (Britannia Global Markets, Britannia Wealth Management, and related companies).",
+          "<strong>Family office connection</strong> — Banvelca, the multigenerational organisation associated with the Herrera Velutini family.",
+          "<strong>Earlier career</strong> — Leadership roles at Bolívar Banco Universal, Banco Real / Banreal Holding, Bancrédito group, and related Venezuelan and international financial companies."
+        ]
+      },
+      {
+        "type": "cards",
+        "heading": "Related Profiles & Companies",
+        "items": [
+          {
+            "href": "/people/isabela-herrera-velutini",
+            "tag": "People",
+            "title": "Isabela Herrera Velutini",
+            "excerpt": "Principal, Banvelca — eighth generation"
+          },
+          {
+            "href": "/company/britannia-financial-group",
+            "tag": "Company",
+            "title": "Britannia Financial Group",
+            "excerpt": "Founded by Julio Herrera Velutini"
+          },
+          {
+            "href": "/company/banvelca",
+            "tag": "Company",
+            "title": "Banvelca",
+            "excerpt": "Herrera Velutini family office"
+          }
+        ]
+      }
+    ],
+    "sidebar": [
+      {
+        "type": "facts",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Full name",
+            "value": "Julio Herrera Velutini"
+          },
+          {
+            "label": "Born",
+            "value": "15 December 1971"
+          },
+          {
+            "label": "Nationality",
+            "value": "Italian / Venezuelan"
+          },
+          {
+            "label": "Known for",
+            "value": "Founder, Britannia Financial Group"
+          },
+          {
+            "label": "Family",
+            "value": "Herrera Velutini (7th generation)"
+          },
+          {
+            "label": "Education",
+            "value": "Central University of Venezuela; schools in UK & Switzerland"
+          }
+        ]
+      },
+      {
+        "type": "links",
+        "heading": "Official & Reference Links",
+        "style": "plain",
+        "spacing": "space-y-3",
+        "items": [
+          {
+            "href": "https://en.wikipedia.org/wiki/Julio_Herrera_Velutini",
+            "label": "Wikipedia",
+            "icon": "fa-brands fa-wikipedia-w",
+            "external": true
+          },
+          {
+            "href": "https://www.instagram.com/julioherreravelutini/",
+            "label": "@julioherreravelutini",
+            "icon": "fa-brands fa-instagram",
+            "external": true
+          },
+          {
+            "href": "https://www.banvelca.com/about-us/leadership",
+            "label": "Banvelca Leadership",
+            "icon": "fa-solid fa-building",
+            "external": true
+          }
+        ]
+      }
+    ],
+    "schema": {
+      "@type": "Person",
+      "@id": "https://www.morenews.org/people/julio-herrera-velutini#person",
+      "name": "Julio Herrera Velutini",
+      "alternateName": [
+        "JMHV"
+      ],
+      "description": "Julio Herrera Velutini is an Italian-Venezuelan banker and founder of Britannia Financial Group. A seventh-generation member of the Herrera Velutini banking family, he has built an international financial group spanning private banking, wealth management, capital markets and related services across the UK, Switzerland, the Americas and the Middle East.",
+      "url": "https://www.morenews.org/people/julio-herrera-velutini",
+      "image": "https://www.morenews.org/images/julio-herrera-velutini.webp",
+      "jobTitle": "Founder & Chairman",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Britannia Financial Group",
+        "url": "https://www.morenews.org/company/britannia-financial-group"
+      },
+      "alumniOf": {
+        "@type": "CollegeOrUniversity",
+        "name": "Central University of Venezuela"
+      },
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Julio_Herrera_Velutini",
+        "https://www.instagram.com/julioherreravelutini/",
+        "https://www.banvelca.com/about-us/leadership"
+      ],
+      "knowsAbout": [
+        "Private banking",
+        "Wealth management",
+        "Family office",
+        "International finance",
+        "Capital markets"
+      ],
+      "birthDate": "1971-12-15",
+      "nationality": [
+        {
+          "@type": "Country",
+          "name": "Italy"
+        },
+        {
+          "@type": "Country",
+          "name": "Venezuela"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "lord-stanley-fink",
+    "kind": "people",
+    "name": "Stanley Fink, Baron Fink",
+    "metaTitle": "Lord Stanley Fink – Chairman, Britannia Global Markets | Profile",
+    "metaDescription": "Profile of Lord Stanley Fink (Stanley Fink, Baron Fink), former CEO of Man Group, Conservative life peer, and Chairman of Britannia Global Markets. Known as a leading figure in the UK hedge fund industry.",
+    "image": "/images/britannia-leadership-hero.webp",
+    "breadcrumbLabel": "People",
+    "heroImage": "/images/britannia-leadership-hero.webp",
+    "heroImageAlt": "britannia leadership chnaged",
+    "kicker": "Profile",
+    "heading": "Lord Stanley Fink",
+    "jobTitle": "Stanley Fink, Baron Fink",
+    "tagline": "Chairman, Britannia Global Markets · Former CEO, Man Group · Conservative Life Peer",
+    "links": [
+      {
+        "href": "/company/britannia-financial-group",
+        "label": "Britannia",
+        "icon": "fa-solid fa-building",
+        "external": false
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Stanley_Fink,_Baron_Fink",
+        "label": "Wikipedia",
+        "icon": "fa-brands fa-wikipedia-w",
+        "external": true
+      }
+    ],
+    "sections": [
+      {
+        "type": "paragraphs",
+        "heading": "About Lord Stanley Fink",
+        "items": [
+          "<strong>Stanley Fink, Baron Fink</strong> (born 15 September 1957) is a British financier and Conservative life peer. He is widely known for his tenure as Chief Executive of Man Group from 2000 to 2007, during which the firm became one of the world’s largest listed hedge-fund companies and a FTSE 100 constituent. He has been described in the press as a leading figure — sometimes called the “godfather” — of the UK hedge fund industry.",
+          "Fink was educated at Manchester Grammar School and Trinity Hall, Cambridge. He qualified as a chartered accountant (FCA) at Arthur Andersen, worked briefly at Mars Inc, then at Citibank, before rising through Man Group.",
+          "After Man Group he returned as CEO (and later Chairman) of International Standard Asset Management (ISAM). He has held board and investment roles across fintech, education technology, environmental software, healthcare and other sectors, and sits as a life peer in the House of Lords (created 2011).",
+          "In 2026 he was appointed Chairman of Britannia Global Markets, the FCA-regulated brokerage linked to the Britannia group associated with Julio Herrera Velutini and the broader family interests coordinated through Banvelca."
+        ]
+      },
+      {
+        "type": "bullets",
+        "heading": "Career Highlights",
+        "items": [
+          "<strong>CEO, Man Group</strong> (2000–2007) — Grew the firm into a major listed hedge-fund business.",
+          "<strong>CEO / Chairman, ISAM</strong> — International Standard Asset Management.",
+          "<strong>Chairman, Britannia Global Markets</strong> (from 2026).",
+          "<strong>House of Lords</strong> — Conservative life peer since 2011.",
+          "Board and investor roles including eToro, Curve, Blackbullion, Ecometrica and others."
+        ]
+      },
+      {
+        "type": "cards",
+        "heading": "Related",
+        "items": [
+          {
+            "href": "/company/britannia-financial-group",
+            "tag": "Company",
+            "title": "Britannia Financial Group",
+            "excerpt": ""
+          },
+          {
+            "href": "/people/julio-herrera-velutini",
+            "tag": "People",
+            "title": "Julio Herrera Velutini",
+            "excerpt": ""
+          }
+        ]
+      }
+    ],
+    "sidebar": [
+      {
+        "type": "facts",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Full name",
+            "value": "Stanley Fink, Baron Fink"
+          },
+          {
+            "label": "Born",
+            "value": "15 September 1957, Manchester"
+          },
+          {
+            "label": "Title",
+            "value": "Life Peer (Conservative)"
+          },
+          {
+            "label": "Education",
+            "value": "Manchester Grammar; Trinity Hall, Cambridge; FCA"
+          },
+          {
+            "label": "Known for",
+            "value": "Former CEO, Man Group"
+          },
+          {
+            "label": "Current",
+            "value": "Chairman, Britannia Global Markets"
+          }
+        ]
+      },
+      {
+        "type": "links",
+        "heading": "Links",
+        "style": "plain",
+        "spacing": "space-y-3",
+        "items": [
+          {
+            "href": "https://en.wikipedia.org/wiki/Stanley_Fink,_Baron_Fink",
+            "label": "Wikipedia",
+            "icon": "",
+            "external": true
+          },
+          {
+            "href": "https://members.parliament.uk/member/4219/registeredinterests",
+            "label": "Register of Interests",
+            "icon": "",
+            "external": true
+          }
+        ]
+      }
+    ],
+    "schema": {
+      "@type": "Person",
+      "@id": "https://www.morenews.org/people/lord-stanley-fink#person",
+      "name": "Stanley Fink, Baron Fink",
+      "alternateName": [
+        "Lord Stanley Fink",
+        "Lord Fink",
+        "Stanley Fink"
+      ],
+      "description": "Stanley Fink, Baron Fink is a British financier, former CEO of Man Group, and a Conservative life peer in the House of Lords. He has been described as a leading figure in the UK hedge fund industry and currently serves as Chairman of Britannia Global Markets.",
+      "url": "https://www.morenews.org/people/lord-stanley-fink",
+      "image": "https://www.morenews.org/images/britannia-leadership-hero.webp",
+      "jobTitle": "Chairman",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Britannia Global Markets"
+      },
+      "alumniOf": {
+        "@type": "CollegeOrUniversity",
+        "name": "Trinity Hall, Cambridge"
+      },
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Stanley_Fink,_Baron_Fink",
+        "https://members.parliament.uk/member/4219/registeredinterests"
+      ],
+      "knowsAbout": [
+        "Hedge funds",
+        "Asset management",
+        "Financial services",
+        "Fintech",
+        "Philanthropy"
+      ],
+      "birthDate": "1957-09-15",
+      "nationality": {
+        "@type": "Country",
+        "name": "United Kingdom"
+      }
+    }
+  }
+]

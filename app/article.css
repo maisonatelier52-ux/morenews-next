@@ -1,0 +1,79 @@
+/* Standard article template — shared by every "standard" layout article.
+   Consolidated from the per-article <style> blocks of the original HTML pages. */
+
+.writer-block {
+  font-family: "Noto Serif JP", serif;
+  max-width: 540px;
+  margin: 15px auto 10px auto;
+  padding: 0;
+  line-height: 1.7;
+  color: #222;
+}
+
+.writer-date,
+.writer-credit {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.suggested-heads {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  font-family: "Noto Serif JP", serif;
+  color: black;
+}
+
+a.links {
+  color: #000000;
+  text-decoration: none;
+  font-weight: 400;
+}
+
+a.links:hover {
+  color: #1a73e8;
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+a.slink {
+  color: #1a73e8;
+  text-decoration: none;
+  font-weight: 400;
+}
+
+a.slink:hover {
+  color: #1a73e8;
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+/* "In Brief" summary box */
+.aio-box {
+  background: #f7f7f5;
+  border-left: 3px solid #222;
+  padding: 14px 18px;
+  margin: 18px 0 22px 0;
+  font-size: 0.95em;
+}
+
+.aio-box h2 {
+  font-size: 0.78em;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #555;
+  margin: 0 0 6px 0;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+.aio-box p {
+  margin: 0;
+  color: #333;
+  line-height: 1.55;
+}
+
+@media screen and (max-width: 768px) {
+  .writer-block {
+    padding: 10px;
+  }
+}

@@ -1,0 +1,13 @@
+/* People / company / profile pages */
+.profile-hero {
+  background: linear-gradient(135deg, #f8f6f0 0%, #f0ebe0 100%);
+}
+
+.profile-link {
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.profile-link:hover {
+  color: #b3151a;
+  border-color: #b3151a;
+}

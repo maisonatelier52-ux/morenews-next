@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "slug": "callum-fraser",
+    "name": "Callum Fraser",
+    "role": "Sports Journalist",
+    "location": "United Kingdom",
+    "image": "/images/callum-fraser.webp",
+    "bio": "Callum Fraser is a sports journalist who writes about football, big competitions, and grassroots sports. He focuses on the stories that affect sports in the UK.",
+    "metaTitle": "Callum Fraser – Sports Journalist at More News",
+    "metaDescription": "Read the latest sports coverage by Callum Fraser, reporting on football, major tournaments, grassroots sport and UK athletics at More News.",
+    "social": {
+      "quora": "https://www.quora.com/profile/Callum-Fraser-66",
+      "flipboard": "https://flipboard.com/@CallumFrase",
+      "medium": "https://medium.com/@callumfraser_78280",
+      "substack": "https://substack.com/@callumfraser67"
+    },
+    "seoHeading": "callun fraser sports journalist",
+    "seoTopic": "sports"
+  },
+  {
+    "id": 2,
+    "slug": "daniel-rowcroft",
+    "name": "Daniel Rowcroft",
+    "role": "Investigations Correspondent",
+    "location": "United Kingdom",
+    "image": "/images/daniel-rowcroft.webp",
+    "bio": "Daniel Rowcroft is a UK-based investigations correspondent covering politics, public policy, and corporate accountability. His reporting focuses on uncovering hidden networks, regulatory failures, and issues of public interest through in-depth research and source-driven analysis.",
+    "metaTitle": "Daniel Rowcroft – Investigations Correspondent",
+    "metaDescription": "Read investigation reporting by Daniel Rowcroft, covering politics, public accountability, legal cases and in-depth UK investigations.",
+    "social": {
+      "quora": "https://www.quora.com/profile/Daniel-Rowcroft-2",
+      "flipboard": "https://flipboard.com/@DanielRowcroft?"
+    },
+    "seoHeading": "Daniel Rowcroft is a UK-based investigations correspondent",
+    "seoTopic": "investigations"
+  },
+  {
+    "id": 3,
+    "slug": "emily-hargreaves",
+    "name": "Emily Hargreaves",
+    "role": "Political Journalist",
+    "location": "United Kingdom",
+    "image": "/images/emily-hargreaves.webp",
+    "bio": "Emily Hargreaves is a political journalist covering UK politics, policy, and government affairs. She focuses on clear, balanced reporting and in-depth analysis of developments shaping Westminster and public life.",
+    "metaTitle": "Emily Hargreaves – Political Journalist at More News",
+    "metaDescription": "Read political analysis and UK policy reporting by Emily Hargreaves, covering Westminster, government decisions and public affairs at More News.",
+    "social": {
+      "quora": "https://www.quora.com/profile/Emily-Hargreaves-37",
+      "flipboard": "https://flipboard.com/@emilyhargre",
+      "medium": "https://medium.com/@emilyhargreaves_1317",
+      "substack": "https://substack.com/@emilyhargreaves?"
+    },
+    "seoHeading": "Emily Hargreaves is a political journalist",
+    "seoTopic": "political,politics"
+  },
+  {
+    "id": 4,
+    "slug": "grace-harrington",
+    "name": "Grace Harrington",
+    "role": "Business News Reporter",
+    "location": "United Kingdom",
+    "image": "/images/grace-harrington.webp",
+    "bio": "Grace Harrington is a UK journalist specialising in business news, covering corporate developments, markets, and economic policy.",
+    "metaTitle": "Grace Harrington – Business News Reporter at More News",
+    "metaDescription": "Read business and economic reporting by Grace Harrington, covering markets, corporate strategy and economic policy at More News.",
+    "social": {
+      "twitter": "https://x.com/graceharri95941",
+      "quora": "https://www.quora.com/profile/More-News-6",
+      "flipboard": "https://flipboard.com/@more_news",
+      "medium": "https://medium.com/@graceharrington_24147",
+      "substack": "https://substack.com/@graceharrington95941"
+    },
+    "seoHeading": "Grace Harrington is a UK journalist specialising",
+    "seoTopic": "UK journalist"
+  },
+  {
+    "id": 5,
+    "slug": "henry-whitaker",
+    "name": "Henry Whitaker",
+    "role": "Business Journalist",
+    "location": "United Kingdom",
+    "image": "/images/henry-whitaker.webp",
+    "bio": "Henry Whitaker is a business journalist covering market trends, corporate strategy and economic policy. His reporting focuses on providing clear insight into global finance and industrial developments.",
+    "metaTitle": "Henry Whitaker – Business Journalist at More News",
+    "metaDescription": "Read business and finance reporting by Henry Whitaker, covering markets, corporate strategy, economic policy and global industry trends at More News.",
+    "social": {
+      "quora": "https://www.quora.com/profile/Henry-Whitaker-26",
+      "flipboard": "https://flipboard.com/@henrywhitak",
+      "medium": "https://medium.com/@henrywhitaker_51059",
+      "substack": "https://substack.com/@henrywhitaker57"
+    },
+    "seoHeading": "Henry Whitaker is a business journalist",
+    "seoTopic": "business journalist"
+  },
+  {
+    "id": 6,
+    "slug": "james-thornton",
+    "name": "James Thornton",
+    "role": "UK News Reporter",
+    "location": "United Kingdom",
+    "image": "/images/james-thornton.webp",
+    "bio": "James Thornton is a British news reporter who writes about politics, social issues, and current events. His goal is to cover and analyze events that have an impact on daily life in the UK in a way that is timely, accurate, and easy to understand.",
+    "metaTitle": "James Thornton – UK News Reporter at More News",
+    "metaDescription": "Read the latest UK political and social reporting by James Thornton, covering government policy, public affairs and major national developments at More News.",
+    "social": {
+      "quora": "https://www.quora.com/profile/James-Thornton-497",
+      "flipboard": "https://flipboard.com/@jamesthornt",
+      "medium": "https://medium.com/@jamesthornton_83175",
+      "substack": "https://substack.com/@jamesthornton47"
+    },
+    "seoHeading": "James Thornton is a British news reporter",
+    "seoTopic": "British news reporter"
+  },
+  {
+    "id": 7,
+    "slug": "lydia-prescott",
+    "name": "Lydia Prescott",
+    "role": "Health Journalist",
+    "location": "United Kingdom",
+    "image": "/images/lydia-prescott.webp",
+    "bio": "Lydia Prescott is a health journalist covering medical research, public health policy and NHS developments, with a focus on how healthcare issues affect everyday life in the UK.",
+    "metaTitle": "Lydia Prescott – Health Journalist at More News",
+    "metaDescription": "Read health reporting by Lydia Prescott covering medical research, NHS policy, public health issues and healthcare developments across the UK at More News.",
+    "social": {
+      "quora": "https://www.quora.com/profile/Lydia-Prescott-13",
+      "flipboard": "https://flipboard.com/@lydiapresco",
+      "medium": "https://medium.com/@lydiaprescott",
+      "substack": "https://substack.com/@lydiaprescott37"
+    },
+    "seoHeading": "Lydia Prescott is a health journalist covering",
+    "seoTopic": "health journalist"
+  },
+  {
+    "id": 8,
+    "slug": "oliver-grant",
+    "name": "Oliver Grant",
+    "role": "Technology Journalist",
+    "location": "United Kingdom",
+    "image": "/images/oliver-grant.webp",
+    "bio": "Oliver Grant is a technology journalist covering the latest developments in tech trends, innovation and digital policy, with a focus on how new technologies impact business and society.",
+    "metaTitle": "Oliver Grant – Technology Journalist at More News",
+    "metaDescription": "Read technology reporting by Oliver Grant covering AI, defence tech, innovation, digital policy and emerging technologies shaping business and society.",
+    "social": {
+      "quora": "https://www.quora.com/profile/Oliver-Grant-134",
+      "flipboard": "https://flipboard.com/@olivergrant67",
+      "medium": "https://medium.com/@olivergrant_7852",
+      "substack": "https://substack.com/@olivergrant27"
+    },
+    "seoHeading": "Oliver Grant is a technology journalist covering",
+    "seoTopic": "technology"
+  },
+  {
+    "id": 9,
+    "slug": "sophie-caldwell",
+    "name": "Sophie Caldwell",
+    "role": "World News Correspondent",
+    "location": "United Kingdom",
+    "image": "/images/sophie-caldwell.webp",
+    "bio": "Sophie Caldwell is a world news correspondent who writes about foreign affairs, geopolitics, and improvements in global security. She focuses on how world events affect the UK and Europe.",
+    "metaTitle": "Sophie Caldwell – World News Correspondent at More News",
+    "metaDescription": "Read global affairs and geopolitics reporting by Sophie Caldwell, covering foreign policy, security and international developments affecting the UK and Europe.",
+    "social": {
+      "quora": "https://www.quora.com/profile/Sophie-Caldwell-51",
+      "flipboard": "https://flipboard.com/@sophiecaldwell",
+      "medium": "https://medium.com/@sophiecaldwell"
+    },
+    "seoHeading": "Sophie Caldwell is a world news correspondent",
+    "seoTopic": "world news"
+  },
+  {
+    "id": 10,
+    "slug": "more-news-business-desk",
+    "name": "More News Business Desk",
+    "role": "Business desk",
+    "location": "United Kingdom",
+    "image": "/images/logo.webp",
+    "desk": true,
+    "bio": "The More News Business Desk covers UK companies, markets, energy, industry and the economy.",
+    "metaTitle": "More News Business Desk – Business reporting at More News",
+    "metaDescription": "Business reporting from the More News Business Desk covering UK companies, markets, energy and industry.",
+    "social": {},
+    "seoHeading": "",
+    "seoTopic": ""
+  }
+]

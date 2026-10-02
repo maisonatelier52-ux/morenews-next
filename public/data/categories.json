@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "uk",
+    "name": "UK",
+    "description": "Latest UK news covering politics, economy, public services, society and major national developments with independent reporting.",
+    "title": "UK News – Politics, Economy, Society & Public Affairs"
+  },
+  {
+    "slug": "politics",
+    "name": "Politics",
+    "description": "Latest UK politics news covering government policy, parliament, elections and political power with independent reporting and analysis.",
+    "title": "Politics News – UK Government, Policy & Power"
+  },
+  {
+    "slug": "business",
+    "name": "Business",
+    "description": "Latest UK business news covering markets, companies, finance, jobs, housing and the economy with independent reporting and clear analysis.",
+    "title": "Business News – UK Markets, Companies & Economy"
+  },
+  {
+    "slug": "tech",
+    "name": "Tech",
+    "description": "Latest UK tech news covering AI defence health innovation and emerging technologies shaping industry government and everyday digital life worldwide today!",
+    "title": "Tech News – UK AI Defence Health Innovation Updates Now"
+  },
+  {
+    "slug": "world",
+    "name": "World",
+    "description": "Latest world news covering global politics, international conflicts, diplomacy, markets and major global events with trusted reporting.",
+    "title": "World News – Global Politics, Economy & International Affairs"
+  },
+  {
+    "slug": "health",
+    "name": "Health",
+    "description": "Latest UK health news covering NHS updates, public health, medical research, disease outbreaks and healthcare policy with trusted reporting.",
+    "title": "Health News – UK Healthcare, Medicine & Public Health"
+  },
+  {
+    "slug": "sports",
+    "name": "Sports",
+    "description": "Latest sports news from the UK and around the world covering football, Formula 1, cricket, cycling, darts and major global sporting events.",
+    "title": "Sports News – UK Football, F1, Cricket & Global Sport"
+  },
+  {
+    "slug": "investigation",
+    "name": "Investigation",
+    "description": "In-depth UK investigation news covering public inquiries, legal cases, corruption probes and accountability reporting.",
+    "title": "Investigation News – UK Inquiries, Law & Accountability"
+  }
+]

@@ -1,0 +1,153 @@
+@import "./legacy.css";
+@import "./article.css";
+@import "./dossier.css";
+@import "./entity.css";
+@import "./refinements.css";
+@import "./info.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --mn-red: #b3151a;
+  --mn-ink: #1b1b18;
+}
+
+body {
+  background: #fff;
+}
+
+.site-search-form {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  border: 1px solid #d9d9d9;
+  border-radius: 999px;
+  padding: 4px 8px;
+  min-width: 230px;
+  background: #fff;
+}
+
+.left-icons .nav-menu {
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  font-size: 22px;
+  line-height: 1;
+}
+
+.desktop-header-search {
+  display: flex;
+}
+
+.sidebar.open {
+  left: 0;
+}
+
+.site-search-form input {
+  border: 0;
+  outline: 0;
+  min-width: 0;
+  width: 100%;
+  font-size: 13px;
+  font-family: "Noto Sans", sans-serif;
+}
+
+.site-search-form button {
+  border: 0;
+  background: #111;
+  color: #fff;
+  border-radius: 999px;
+  padding: 5px 10px;
+  font-size: 11px;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.raw-page img {
+  max-width: 100%;
+}
+
+.category-page,
+.search-page,
+.directory-page {
+  max-width: var(--site-max, 1600px);
+  margin: 0 auto;
+  padding: 36px var(--site-pad, 48px) 70px;
+}
+
+.category-page h1,
+.search-page h1,
+.directory-page h1 {
+  font-family: "Noto Serif", Georgia, serif;
+  font-size: clamp(36px, 6vw, 64px);
+  font-weight: 900;
+  line-height: 1.02;
+  color: #111;
+}
+
+.category-grid,
+.search-grid,
+.directory-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 28px;
+  margin-top: 30px;
+}
+
+.mn-card {
+  color: #111;
+  text-decoration: none;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 20px;
+}
+
+.mn-card img {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  background: #eee;
+}
+
+.mn-card .label {
+  margin-top: 12px;
+  color: var(--mn-red);
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.mn-card h2 {
+  margin-top: 7px;
+  font-family: "Noto Serif", Georgia, serif;
+  font-size: 22px;
+  line-height: 1.14;
+  font-weight: 800;
+}
+
+.mn-card p {
+  margin-top: 8px;
+  color: #555;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.entity-shell {
+  background: #fff;
+}
+
+@media (max-width: 900px) {
+  .site-search-form {
+    min-width: 100%;
+    order: 4;
+    grid-column: 1 / -1;
+  }
+
+  .category-grid,
+  .search-grid,
+  .directory-grid {
+    grid-template-columns: 1fr;
+  }
+}

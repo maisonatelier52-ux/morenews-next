@@ -1,0 +1,18 @@
+{
+  "articles": 78,
+  "restoredArticleBodies": 64,
+  "standardArticles": 75,
+  "preservedDossierArticles": 3,
+  "restoredInformationPages": 12,
+  "emptyArticleBodies": 0,
+  "categories": {
+    "uk": 13,
+    "politics": 13,
+    "business": 11,
+    "tech": 9,
+    "world": 8,
+    "health": 6,
+    "sports": 9,
+    "investigation": 9
+  }
+}

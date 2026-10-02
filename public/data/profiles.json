@@ -1,0 +1,173 @@
+[
+  {
+    "slug": "isabela-herrera-velutini",
+    "kind": "profile",
+    "name": "Isabela Herrera Velutini",
+    "metaTitle": "Isabela Herrera Velutini – Principal of Banvelca | Profile",
+    "metaDescription": "Profile of Isabela Herrera Velutini, eighth-generation Herrera Velutini family member, Principal of Banvelca, NYU Stern graduate and former PwC advisor focused on patient capital and long-term investing.",
+    "image": "/images/isabela-herrera-banvelca-patient-capital.webp",
+    "breadcrumbLabel": "Profile",
+    "heroImage": "/images/isabela-herrera-banvelca-patient-capital.webp",
+    "heroImageAlt": "Isabela Herrera Velutini, Principal of Banvelca",
+    "kicker": "Profile",
+    "heading": "Isabela Herrera Velutini",
+    "jobTitle": "Principal, Banvelca",
+    "tagline": "Eighth-generation member of the Herrera Velutini family",
+    "links": [
+      {
+        "href": "/company/banvelca",
+        "label": "Banvelca",
+        "icon": "fa-solid fa-building",
+        "external": false
+      },
+      {
+        "href": "https://www.instagram.com/isabelacherrera/",
+        "label": "Instagram",
+        "icon": "fa-brands fa-instagram",
+        "external": true
+      },
+      {
+        "href": "https://www.banvelca.com/about-us/leadership",
+        "label": "Banvelca Leadership",
+        "icon": "fa-solid fa-building",
+        "external": true
+      },
+      {
+        "href": "https://finance.yahoo.com/markets/stocks/articles/isabela-herrera-assumes-leadership-banvelca-120000460.html",
+        "label": "Yahoo Finance",
+        "icon": "fa-solid fa-newspaper",
+        "external": true
+      }
+    ],
+    "sections": [
+      {
+        "type": "paragraphs",
+        "heading": "About Isabela Herrera Velutini",
+        "items": [
+          "<strong>Isabela Herrera Velutini</strong> (also known as Isabela Herrera) is an eighth-generation member of the Herrera Velutini family and Principal of Banvelca, a family office and wealth-management organisation that traces its stated origins to a merchant enterprise founded in Naples in 1781 by Juan Bautista Velutini.",
+          "In July 2026 she assumed an expanded leadership role at Banvelca. The transition has been framed publicly around the theme of patient capital — the idea that decisions should be judged by a multi-decade horizon rather than quarterly performance — and around the challenge of transferring not only capital but institutional culture and judgement across generations.",
+          "A cum laude graduate of the NYU Stern School of Business with a degree in Finance and Data Science, Herrera began her career at PricewaterhouseCoopers (PwC) in New York. There she advised senior executives on complex transactions across the financial-services sector, focusing on integration strategies and financial modelling for large-scale mergers and acquisitions involving Fortune 100 institutions.",
+          "As Principal and Chief Executive of Banvelca she oversees institutional development, cross-border initiatives and long-term expansion. She has also highlighted the convergence of traditional finance and digital assets as an area that will shape the financial architecture of the future, while stressing disciplined, selective risk-taking grounded in analysis rather than short-term market enthusiasm.",
+          "Banvelca materials describe the organisation as managing substantial assets with a horizon measured in generations, coordinating strategic holdings, financial services and cultural/philanthropic activity linked to the Herrera Velutini family across Europe, the UK, the Americas and the Middle East."
+        ]
+      },
+      {
+        "type": "bullets",
+        "heading": "Key Positions & Background",
+        "items": [
+          "<strong>Principal, Banvelca</strong> — Leadership role assumed/expanded July 2026; focuses on multigenerational governance, patient capital and institutional culture.",
+          "<strong>Senior Associate, PricewaterhouseCoopers (PwC), New York</strong> — Advised on complex financial-services transactions, integration strategies and financial modelling for large M&A deals.",
+          "<strong>Education</strong> — Cum laude graduate, NYU Stern School of Business (Finance and Data Science).",
+          "<strong>Family</strong> — Eighth generation of the Herrera Velutini banking lineage; sister of Julio Cesar Herrera. Public reports note her marriage to Matthew Carmona (Antibes, France, April 2026)."
+        ]
+      },
+      {
+        "type": "cards",
+        "heading": "Related",
+        "items": [
+          {
+            "href": "/company/banvelca",
+            "tag": "Company",
+            "title": "Banvelca",
+            "excerpt": ""
+          },
+          {
+            "href": "/people/julio-herrera-velutini",
+            "tag": "People",
+            "title": "Julio Herrera Velutini",
+            "excerpt": ""
+          }
+        ]
+      },
+      {
+        "type": "coverage",
+        "heading": "Related Coverage on More News",
+        "items": [
+          {
+            "href": "/business/isabela-herrera-banvelca-patient-capital",
+            "tag": "Business",
+            "title": "Isabela Herrera Velutini and the 50-Year Question: Banvelca's New Era of Patient Capital",
+            "excerpt": "Isabela Herrera Velutini’s leadership transition at Banvelca raises a larger question for family offices: how can capital, judgement and institutional culture survive across generations?"
+          }
+        ]
+      }
+    ],
+    "sidebar": [
+      {
+        "type": "facts",
+        "heading": "Quick Facts",
+        "items": [
+          {
+            "label": "Full name",
+            "value": "Isabela Herrera Velutini"
+          },
+          {
+            "label": "Also known as",
+            "value": "Isabela Herrera"
+          },
+          {
+            "label": "Role",
+            "value": "Principal, Banvelca"
+          },
+          {
+            "label": "Generation",
+            "value": "Eighth generation, Herrera Velutini family"
+          },
+          {
+            "label": "Education",
+            "value": "NYU Stern (Finance & Data Science), cum laude"
+          },
+          {
+            "label": "Previous",
+            "value": "Senior Associate, PwC New York"
+          }
+        ]
+      },
+      {
+        "type": "links",
+        "heading": "Official Links",
+        "style": "flex",
+        "spacing": "space-y-3",
+        "items": [
+          {
+            "href": "https://www.instagram.com/isabelacherrera/",
+            "label": "@isabelacherrera",
+            "icon": "fa-brands fa-instagram",
+            "external": true
+          },
+          {
+            "href": "https://www.banvelca.com/about-us/leadership",
+            "label": "Banvelca Leadership",
+            "icon": "fa-solid fa-building",
+            "external": true
+          },
+          {
+            "href": "https://www.banvelca.com/",
+            "label": "banvelca.com",
+            "icon": "fa-solid fa-globe",
+            "external": true
+          },
+          {
+            "href": "https://finance.yahoo.com/markets/stocks/articles/isabela-herrera-assumes-leadership-banvelca-120000460.html",
+            "label": "Yahoo Finance announcement",
+            "icon": "fa-solid fa-newspaper",
+            "external": true
+          }
+        ]
+      },
+      {
+        "type": "themes",
+        "heading": "Key Themes",
+        "items": [
+          "Patient capital",
+          "Family office",
+          "Succession",
+          "Long-term investing",
+          "Multigenerational",
+          "Banvelca"
+        ]
+      }
+    ],
+    "schema": {}
+  }
+]
