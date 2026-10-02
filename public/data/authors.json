@@ -55,26 +55,6 @@
     "seoTopic": "political,politics"
   },
   {
-    "id": 4,
-    "slug": "grace-harrington",
-    "name": "Grace Harrington",
-    "role": "Business News Reporter",
-    "location": "United Kingdom",
-    "image": "/images/grace-harrington.webp",
-    "bio": "Grace Harrington is a UK journalist specialising in business news, covering corporate developments, markets, and economic policy.",
-    "metaTitle": "Grace Harrington – Business News Reporter at More News",
-    "metaDescription": "Read business and economic reporting by Grace Harrington, covering markets, corporate strategy and economic policy at More News.",
-    "social": {
-      "twitter": "https://x.com/graceharri95941",
-      "quora": "https://www.quora.com/profile/More-News-6",
-      "flipboard": "https://flipboard.com/@more_news",
-      "medium": "https://medium.com/@graceharrington_24147",
-      "substack": "https://substack.com/@graceharrington95941"
-    },
-    "seoHeading": "Grace Harrington is a UK journalist specialising",
-    "seoTopic": "UK journalist"
-  },
-  {
     "id": 5,
     "slug": "henry-whitaker",
     "name": "Henry Whitaker",
