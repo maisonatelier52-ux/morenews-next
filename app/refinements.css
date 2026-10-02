@@ -23,7 +23,7 @@
 .home-page p, .news-category-page p { font-family: var(--news-body); font-weight: 400; text-align: left; color: #4c4c47; }
 .home-page img, .news-category-page img { display: block; }
 .home-page a:hover, .news-category-page h2 a:hover, .news-category-page h3 a:hover { color: var(--mn-red); }
-.news-eyebrow { display: block; margin-bottom: 8px; font: 700 10px "Noto Sans",Arial,sans-serif; letter-spacing: .1em; text-transform: uppercase; color: var(--mn-red); }
+.news-eyebrow { display: block; margin-bottom: 8px; font: 700 10px "Noto Sans",Arial,sans-serif; letter-spacing: .1em; text-transform: uppercase; color: var(--mn-black); }
 .section-heading { display: flex; align-items: baseline; justify-content: space-between; gap: 20px; border-top: 2px solid #242421; margin-bottom: 22px; padding-top: 14px; }
 .section-heading h2 { font: 700 22px/1.35 "Noto Serif JP",Georgia,serif; color: #222; }
 .section-heading > a { font: 600 11px "Noto Sans",Arial,sans-serif; white-space: nowrap; text-transform: uppercase; letter-spacing: .04em; color: #555; }
